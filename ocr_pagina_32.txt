@@ -1,0 +1,40 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 32
+Ministerio: OP045 - DIPE EX NACIÓN Anexo: EE
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Rem c/ Aporte 98077,75 Reducción PAV 0,00 Liq. Pesos: 77971,81
+98077,75 2010594 Rm s/ Aporte 0.00 — Salario Familiar: 0,00 Liq. Letras: 0,00
+Id. Hr: 134468904 Apellido y Nombre: OBERTO, RODRIGO SEBASTIAN Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 02/03/2019 Rol: 1 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 02/03/2019 Fec. Nac.: 20/09/1989 Obra Social: 500500 Cant. Hs. : 10,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 291794,31
+Dv 1000003 Asignación Basica 91721,13
+Dv 118100 Complemento No Rem 25000,00
+Dv 120170 Aporte Material Didáctico Rem. 18500,71
+Dv 112310 Item profesionalidad Docente 29932,03
+Dv 112620 Gastos Inherentes a la Labor Docente 20738,70
+Dv 117730 Estado Docente 39567,80
+Dv 118420 Promoción de la Calidad Educativa 16097,64
+Dv 110220 Adicional por Función Docente 78956,40
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 31788,40
+Dv 118360 Antiguedad 33737,95
+RT 660300 Obra Social - APROSS 18108,88
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 6585,05
+RT 660330 Fondo de Enfermedades Catastróficas 8270,00
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 25064,76
+RT 660060 Aporte Personal Jubilatorio 36217,76
+Rem c/ Aporte 329252,36 Reducción PAV 0,00 Liq. Pesos: 291794,31
+386040,76 9424645 Roms/ Aporte 56788,40 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 134685724 Apellido y Nombre: MANSILLA, LUIS GABRIEL Centro Pago: EE03106110 Cargo: 13910 Fecha Alta: 07/03/2023 Rol: 42 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N* Cuenta: 011679703 Fecha Antig.: 25/08/2014  Fec. Nac.: 11/05/1990 Obra Social: 500500 Cant. Hs. : 5,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 124494,30
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 118420 Promoción de la Calidad Educativa 9287,10
+Dv 118360 Antiguedad 28114,96
+Dv 112310 Item profesionalidad Docente 14236,05
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 6263,86

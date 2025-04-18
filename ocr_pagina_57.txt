@@ -1,0 +1,125 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+158235,72
+
+223555846 Apellido y Nombre:  CIRIACI, DANIELA DEL VALLE
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 31582,56
+112620 Gastos Inherentes a la Labor Docente 8295,48
+1000003 Asignación Basica 36688,45
+120170 Aporte Material Didáctico Rem. 7400,29
+118420 Promoción de la Calidad Educativa 8420,30
+118360 Antiguedad 31488,75
+112310 Item profesionalidad Docente 12387,58
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+136263,41
+
+223555846 Apellido y Nombre:  CIRIACI, DANIELA DEL VALLE
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 31582,56
+112620 Gastos Inherentes a la Labor Docente 8295,48
+1000003 Asignación Basica 36688,45
+120170 Aporte Material Didáctico Rem. 7400,29
+118420 Promoción de la Calidad Educativa 8420,30
+118360 Antiguedad 31488,75
+112310 Item profesionalidad Docente 12387,58
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+Fecha Antig.: 01/09/2008  Fec. Nac.: 05/11/1973 Obra Social: 500500
+
+Fecha Antig.: 01/09/2008  Fec. Nac.: 05/11/1973 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 158235,72
+
+32438,32 Rem s/ Aporte 0,00
+
+Centro Pago: EE12602540 Cargo: 13910
+
+Cant. Hs. : 4,00
+Descuentos
+5450,54
+7494,49
+14988,98
+Rem c/ Aporte 136263,41
+27934,01 Rem s/ Aporte 0,00
+
+Centro Pago: EE12602540 Cargo: 13910
+
+Cant. Hs. : 4,00
+
+Descuentos
+
+5450,54
+7494,49
+14988,98
+
+Emision: 2024-11-28
+
+Página: 57
+Reducción PAV 0,00 Liq. Pesos: 12579740
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/07/2009 Rol: 21 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 108329,40
+Reducción PAV 0,00 Liq. Pesos: 108329,40
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2011 Rol: 25 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 108329,40

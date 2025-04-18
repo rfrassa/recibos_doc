@@ -1,0 +1,96 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+98077,75
+
+Id. Hr: 231819012 Apellido y Nombre: RIVALTA, CARMEN ALEJANDRA
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 98077,75
+
+22557,88 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 011377702 Fecha Antig.: 01/03/2010  Fec. Nac.: 16/08/1985 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 118420 Promoción de la Calidad Educativa 5943,74
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 112310 Item profesionalidad Docente 16908,86
+
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 59783,38
+
+Dv 118100 Complemento No Rem 50000,00
+
+Dv 117730 Estado Docente 79926,96
+
+Dv 118360 Antiguedad 20242,77
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7439,90
+
+RT 660330 Fondo de Enfermedades Catastróficas 24810,00
+
+RT 660300 Obra Social - APROSS 10229,86
+
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 6867,39
+
+RT 660060 Aporte Personal Jubilatorio 20459,72
+
+RT 673750 Cuota Afiliación UEPC 7394,52
+
+Rem c/ Aporte 185997,41
+295780,79 77201,39 Rem s/ Aporte 109783.38
+
+Id. Hr: 231819012 Apellido y Nombre: RIVALTA, CARMEN ALEJANDRA
+
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 011377702
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 8916,16
+Dv 118420 Promoción de la Calidad Educativa 5943,74
+Dv 118360 Antiguedad 20242,77
+
+Fecha Antig.: 01/03/2010 Fec. Nac.: 16/08/1985 Obra Social: 500500
+
+Centro Pago: EE12402530 Cargo: 13910
+Cant. Hs. : 3,00
+
+Descuentos
+
+Emision: 2024-11-28
+
+Página: 95
+Reducción PAV 0,00 Liq. Pesos: 75519,87
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2011 Rol: 7 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 218579,40
+Reducción PAV 0,00 Liq. Pesos: 218579,40
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/03/2015 Rol: 12 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 75519,87

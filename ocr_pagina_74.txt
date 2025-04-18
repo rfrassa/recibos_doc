@@ -1,0 +1,36 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Emisor 20
+
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 70878,26 Reducción PAV 0,00 Liq. Pesos: 56348,22
+70878,26 1453004 Rem s/ Aporte o.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 227154813 Apellido y Nombre: ALANIZ, CECILIA JACINTA Centro Pago: EE03104080 Cargo: 13910 Fecha Alta: 01/08/2005 Rol: 1 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 010020801 Fecha Antig.: 01/08/2005  Fec. Nac.: 26/02/1979 Obra Social: 500500 Cant. Hs. : 3,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 84522,31
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 6686,71
+Dv 118360 Antiguedad 26990,36
+Dv 112310 Item profesionalidad Docente 9665,22
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4252,69
+RT 660300 Obra Social - APROSS 5847,46
+RT 660060 Aporte Personal Jubilatorio 11694,91
+Rem c/ Aporte 106317,37 Reducción PAV 0,00 Liq. Pesos: 84522,31
+106317,37 2179506 Rem s/ Aporte 0.00 — Salario Familiar: 0,00 Liq. Letras: 0,00
+Id. Hr: 227154813 Apellido y Nombre: ALANIZ, CECILIA JACINTA Centro Pago: EE03104080 Cargo: 13910 Fecha Alta: 01/03/2011 Rol: 22 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N” Cuenta: 010020801 Fecha Antig.: 01/08/2005  Fec. Nac.: 26/02/1979 Obra Social: 500500 Cant. Hs. : 3,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 84522,31
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 6686,71
+Dv 118360 Antiguedad 26990,36
+Dv 112310 Item profesionalidad Docente 9665,22
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4252,69
+RT 660300 Obra Social - APROSS 5847,46
+
+RT 660060 Aporte Personal Jubilatorio 11694,91

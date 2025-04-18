@@ -1,0 +1,39 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 97
+Ministerio: OP045 - DIPE EX NACIÓN Anexo: EE
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Rem c/ Aporte 98077,75 Reducción PAV 0,00 Liq. Pesos: 75519,87
+98077,75 2255788 Rom s/ Aporte o.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 231819012 Apellido y Nombre: RIVALTA, CARMEN ALEJANDRA Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 28/02/2012 Rol: 9 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 011377702 Fecha Antig.: 01/03/2010  Fec. Nac.: 16/08/1985 Obra Social: 500500 Cant. Hs. : 3,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 75519,87
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 8916,16
+Dv 118420 Promoción de la Calidad Educativa 5943,74
+Dv 118360 Antiguedad 20242,77
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 3923,11
+RT 660300 Obra Social - APROSS 5394,28
+RT 660060 Aporte Personal Jubilatorio 10788,55
+RT 673750 Cuota Afiliación UEPC 2451,94
+Rem c/ Aporte 98077,75 Reducción PAV 0,00 Liq. Pesos: 75519,87
+98077,75 22557,88 Rem s/ Aporte 0.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 231819029 Apellido y Nombre: GOMILA, DANIELA ROXANA Centro Pago: EE03106110 Cargo: 13910 Fecha Alta: 01/07/2009 Rol: 14 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011177904 Fecha Antig.: 01/06/2007  Fec. Nac.: 02/09/1985 Obra Social: 500500 Cant. Hs. : 5,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 136440,63
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 112310 Item profesionalidad Docente 16108,69
+Dv 118420 Promoción de la Calidad Educativa 11144,52
+Dv 118360 Antiguedad 44983,94
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7087,83
+RT 660300 Obra Social - APROSS 9745,76
+RT 660060 Aporte Personal Jubilatorio 19491,52
+
+RT 673750 Cuota Afiliación UEPC 4429,89

@@ -1,0 +1,60 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 114556,98
+114556,98 23484,18 Rem s/ Aporte 0,00
+Id. Hr: 226842978 Apellido y Nombre: CARNIEL, ANDREA DEL VALLE Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/04/2004  Fec. Nac.: 29/01/1978 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 27516,34
+DV 133020 Asignación Familiar por Hijos 18604,80
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118100 Complemento No Rem 50000,00
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112310 Item profesionalidad Docente 22680,29
+Dv 118420 Promoción de la Calidad Educativa 7429,68
+Dv 118360 Antiguedad 33737,95
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 117730 Estado Docente 122660,18
+RT 660300 Obra Social - APROSS 13721,57
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 9979,33
+RT 660330 Fondo de Enfermedades Catastróficas 33080,00
+RT 660060 Aporte Personal Jubilatorio 27443,15
+Rem c/ Aporte 249483,18
+413453,24 84224,05 Rem s/ Aporte 163970,06
+
+Id. Hr: 226842978 Apellido y Nombre: CARNIEL, ANDREA DEL VALLE Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/04/2004  Fec. Nac.: 29/01/1978 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 118420 Promoción de la Calidad Educativa 7429,68
+
+Dv 118360 Antiguedad 33737,95
+
+Dv 112310 Item profesionalidad Docente 10414,27
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4582,28
+
+Emision: 2024-11-28
+Página: 72
+
+Reducción PAV 0,00 Liq. Pesos: 91072,80
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/04/2004 Rol: 1 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 329229,19
+Reducción PAV 0,00 Liq. Pesos: 329229,19
+Salario Familiar: 18604,80  Liq. Letras: 0,00
+Fecha Alta: 01/05/2005 Rol: 3 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 91072,80

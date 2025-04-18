@@ -1,0 +1,106 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+RT 660300 Obra Social - APROSS
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+
+139430,73
+
+Id. Hr: 135869809 Apellido y Nombre: VOTTERO VICTOR, VICTOR
+
+Sit. Revista: 01
+
+Remuneraciones
+Dv 1000003 Asignación Basica 123649,38
+Dv 118100 Complemento No Rem 50000,00
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+Dv 112310 Item profesionalidad Docente 59505,19
+Dv 112620 Gastos Inherentes a la Labor Docente 38905,43
+Dv 117730 Estado Docente 59351,70
+Dv 118420 Promoción de la Calidad Educativa 69030,15
+Dv 110220 Adicional por Función Docente 235725,43
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 47682,63
+Dv 118360 Antiguedad 40638,70
+RT 660300 Obra Social - APROSS
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660330 Fondo de Enfermedades Catastróficas
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS
+RT 660060 Aporte Personal Jubilatorio
+
+752239,68
+
+Id. Hr: 136886484
+Sit. Revista: 03
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 239392,91
+Dv 118420 Promoción de la Calidad Educativa 54659,50
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+Dv 112310 Item profesionalidad Docente 86432,67
+Dv 112620 Gastos Inherentes a la Labor Docente 50517,77
+Dv 118100 Complemento No Rem 50000,00
+Dv 130300 Complemento Inicial 107566,21
+
+DV 117730 Estado Docente 59351,70
+
+Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/08/2021  Fec. Nac.: 18/03/1992 Obra Social: 500500
+
+Apellido y Nombre: DAVICINO AGUSTIN COLAZO, AGUSTIN COLAZO
+Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 04/03/2024  Fec. Nac.: 20/08/1992 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+7668,69
+15337,38
+3485,77
+Rem c/ Aporte 139430,73
+30674,76 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13520
+
+Cant. Hs. : 0,00
+
+Descuentos
+
+36000,64
+13091,14
+8270,00
+7472,63
+
+72001,28
+Rem c/ Aporte 654557,05
+
+136835,69
+97682,63
+
+Rem s/ Aporte
+
+Centro Pago: EE12402530 Cargo: 13436
+Cant. Hs. : 0,00
+
+Descuentos
+
+Emision: 2024-11-28
+
+Página: 39
+Reducción PAV 0,00 Liq. Pesos: 108755,97
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/08/2021 Rol: 1 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 615403,99
+Reducción PAV 0,00 Liq. Pesos: 615403,99
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 04/03/2024 Rol: 1 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 892948,97

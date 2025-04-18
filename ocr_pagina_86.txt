@@ -1,0 +1,158 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+112620 Gastos Inherentes a la Labor Docente
+117730 Estado Docente
+
+660300 Obra Social - APROSS
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660330 Fondo de Enfermedades Catastróficas
+660060 Aporte Personal Jubilatorio
+
+230149618 Apellido y Nombre: ROBERT, ANABEL CECILIA
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+230149618 Apellido y Nombre: ROBERT, ANABEL CECILIA
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+6221,61
+118703,40
+12802,42
+9310,85
+33080,00
+25604,84
+Rem c/ Aporte 232771,31
+406043,71 80798,11 Rem s/ Aporte 173272,40
+Centro Pago: EE12402530 Cargo: 13910
+Fecha Antig.: 01/07/2009  Fec. Nac.: 16/05/1983 Obra Social: 500500 Cant. Hs. : 3,00
+Descuentos
+23686,92
+6221,61
+27516,34
+5550,21
+6315,23
+23616,57
+9290,69
+4087,90
+5620,87
+11241,73
+Rem c/ Aporte 102197,57
+102197,57 20950,50 Rem s/ Aporte 0,00
+Centro Pago: EE12402530 Cargo: 13910
+Fecha Antig.: 01/07/2009  Fec. Nac.: 16/05/1983 Obra Social: 500500 Cant. Hs. : 3,00
+Descuentos
+23686,92
+6221,61
+27516,34
+5550,21
+6315,23
+23616,57
+9290,69
+4087,90
+5620,87
+11241,73
+
+Emision: 2024-11-28
+
+Página: 86
+Reducción PAV 0,00 Liq. Pesos: 325245,60
+Salario Familiar: 27907,20  Liq. Letras: 0,00
+Fecha Alta: 01/03/2011 Rol: 42 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 81247,07
+
+Reducción PAV 0,00 Liq. Pesos: 81247,07
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2011 Rol: 43 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 81247,07

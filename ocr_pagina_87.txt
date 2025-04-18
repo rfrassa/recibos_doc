@@ -1,0 +1,125 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+102197,57
+
+230149618 Apellido y Nombre: ROBERT, ANABEL CECILIA
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 23686,92
+112620 Gastos Inherentes a la Labor Docente 6221,61
+1000003 Asignación Basica 27516,34
+120170 Aporte Material Didáctico Rem. 5550,21
+118420 Promoción de la Calidad Educativa 6315,23
+118360 Antiguedad 23616,57
+112310 Item profesionalidad Docente 9290,69
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+102197,57
+
+230149618 Apellido y Nombre: ROBERT, ANABEL CECILIA
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 23686,92
+112620 Gastos Inherentes a la Labor Docente 6221,61
+1000003 Asignación Basica 27516,34
+120170 Aporte Material Didáctico Rem. 5550,21
+118420 Promoción de la Calidad Educativa 6315,23
+118360 Antiguedad 23616,57
+112310 Item profesionalidad Docente 9290,69
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+Fecha Antig.: 01/07/2009 Fec. Nac.: 16/05/1983 Obra Social: 500500
+
+Fecha Antig.: 01/07/2009 Fec. Nac.: 16/05/1983 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 102197,57
+
+20950,50 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+Descuentos
+4087,90
+5620,87
+11241,73
+Rem c/ Aporte 102197,57
+20950,50 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+
+Descuentos
+
+4087,90
+5620,87
+11241,73
+
+Emision: 2024-11-28
+
+Página: 87
+Reducción PAV 0,00 Liq. Pesos: 81247,07
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2012 Rol: 44 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 81247,07
+Reducción PAV 0,00 Liq. Pesos: 81247,07
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 13/09/2016 Rol: 45 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 81247,07

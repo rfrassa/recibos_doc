@@ -1,0 +1,125 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+135156,02
+
+120592296 Apellido y Nombre: ACOSTA, MARCELO EMILIO
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 15791,28
+112620 Gastos Inherentes a la Labor Docente 4147,74
+1000003 Asignación Basica 18344,23
+120170 Aporte Material Didáctico Rem. 3700,14
+118420 Promoción de la Calidad Educativa 6191,40
+118360 Antiguedad 33737,96
+112310 Item profesionalidad Docente 8191,28
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+90104,03
+
+120592296 Apellido y Nombre: ACOSTA, MARCELO EMILIO
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 15791,28
+112620 Gastos Inherentes a la Labor Docente 4147,74
+1000003 Asignación Basica 18344,23
+120170 Aporte Material Didáctico Rem. 3700,14
+118420 Promoción de la Calidad Educativa 6191,40
+118360 Antiguedad 33737,96
+112310 Item profesionalidad Docente 8191,28
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+Fecha Antig.: 01/01/1991 — Fec. Nac.:
+
+Fecha Antig.: 01/01/1991  Fec. Nac.: 10/07/1969 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 135156,02
+
+27706,98 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+10/07/1969 Obra Social: 500500 Cant. Hs. : 2,00
+Descuentos
+3604,16
+4955,72
+9911,44
+Rem c/ Aporte 90104,03
+18471,32 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 2,00
+
+Descuentos
+
+3604,16
+4955,72
+9911,44
+
+Emision: 2024-11-28
+
+Página: 11
+Reducción PAV 0,00 Liq. Pesos: 107449,04
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/09/2005 Rol: 22 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 71632,71
+Reducción PAV 0,00 Liq. Pesos: 71632,71
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/09/2005 Rol: 6 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 71632,71

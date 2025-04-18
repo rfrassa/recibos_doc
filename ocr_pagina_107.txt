@@ -1,0 +1,190 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+234685697
+Suc. Bco.: 408
+
+1000003 Asignación Basica
+
+110220 Adicional por Función Docente
+
+120170 Aporte Material Didáctico Rem.
+
+112310 Item profesionalidad Docente
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112620 Gastos Inherentes a la Labor Docente
+660300 Obra Social - APROSS
+
+617300 Ausencias por paros/asambleas en días (RM)
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+234685697
+Suc. Bco.: 408
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+Apellido y Nombre: PRINO, LILIAN JANET
+N" Cuenta: 011632106
+
+Apellido y Nombre: PRINO, LILIAN JANET
+N" Cuenta: 011632106
+
+93957,95
+
+Remuneraciones
+27516,34
+23686,92
+
+5550,21
+8541,63
+5572,26
+16868,98
+6221,61
+
+93957,95
+
+Remuneraciones
+
+39478,20
+10369,35
+45860,57
+
+9250,36
+14236,05
+
+9287,10
+28114,96
+
+21610,33
+
+Centro Pago: EE01102560
+
+Fecha Antig.: 16/03/2013  Fec. Nac.: 05/04/1990 Obra Social: 500500
+
+Descuentos
+
+5130,35
+678,78
+10260,71
+2331,98
+3731,17
+
+22132,99
+
+Centro Pago: EE01102560
+Fecha Antig.: 16/03/2013  Fec. Nac.: 05/04/1990 Obra Social: 500500
+
+Descuentos
+
+6263,86
+8612,81
+17225,62
+3914,91
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Cant. Hs. :
+
+Rem c/ Aporte
+
+Rem s/ Aporte
+
+Cant. Hs. :
+
+93957,95
+0,00
+
+Cargo: 13910
+
+3,00
+
+93957,95
+
+0,00
+
+Cargo: 13910
+
+5,00
+
+Emision: 2024-11-28
+
+Página: 107
+Reducción PAV 0,00 Liq. Pesos: 72347,62
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 25/07/2017 Rol: 41 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 71824,96
+Reducción PAV 0,00 Liq. Pesos: 71824,96
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/06/2014 Rol: 20 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 120579,39

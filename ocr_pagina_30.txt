@@ -1,0 +1,149 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2010  Fec. Nac.: 22/06/1988 Obra Social: 500500
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2010  Fec. Nac.: 22/06/1988 Obra Social: 500500
+
+DV
+DV
+DV
+DV
+DV
+DV
+
+660300 Obra Social - APROSS
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660330 Fondo de Enfermedades Catastróficas
+671000 Ajuste Dif. Aporte Mínimo APROSS
+660060 Aporte Personal Jubilatorio
+
+279841,41
+
+133602486 Apellido y Nombre: LUQUE, OSCAR EZEQUIEL
+
+Remuneraciones
+1000003 Asignación Basica 27516,34
+118100 Complemento No Rem 50000,00
+120170 Aporte Material Didáctico Rem. 5550,21
+112310 Item profesionalidad Docente 22072,46
+112620 Gastos Inherentes a la Labor Docente 6221,61
+117730 Estado Docente 131563,02
+118420 Promoción de la Calidad Educativa 5943,74
+110220 Adicional por Función Docente 23686,92
+120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+118360 Antiguedad 20242,77
+660300 Obra Social - APROSS
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660330 Fondo de Enfermedades Catastróficas
+671000 Ajuste Dif. Aporte Mínimo APROSS
+660060 Aporte Personal Jubilatorio
+
+388162,33
+
+133602486 Apellido y Nombre: LUQUE, OSCAR EZEQUIEL
+
+Remuneraciones
+110220 Adicional por Función Docente 23686,92
+112620 Gastos Inherentes a la Labor Docente 6221,61
+1000003 Asignación Basica 27516,34
+120170 Aporte Material Didáctico Rem. 5550,21
+118420 Promoción de la Calidad Educativa 5943,74
+
+118360 Antiguedad 20242,77
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+13204,92
+4801,79
+8270,00
+
+29771,09
+
+26409,85
+
+Rem c/ Aporte
+
+82457,65 Rem s/ Aporte
+
+Centro Pago: EE12402530
+
+Descuentos
+
+13353,84
+
+9711,88
+16540,00
+13912,52
+26707,68
+
+Rem c/ Aporte
+
+80225,92 Rem s/ Aporte
+
+Centro Pago: EE12402530
+
+Descuentos
+
+240089,53
+39751,88
+
+Cargo: 13910
+
+Cant. Hs. : 3,00
+
+242797,07
+145365,26
+
+Cargo: 13910
+
+Cant. Hs. : 3,00
+
+Emision: 2024-11-28
+
+Página: 30
+Reducción PAV 0,00 Liq. Pesos: 197383,76
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2010 Rol: 21 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 307936,41
+
+Reducción PAV 0,00 Liq. Pesos: 307936,41
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/08/2023 Rol: 60 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 77971,81

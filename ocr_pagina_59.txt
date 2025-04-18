@@ -1,0 +1,81 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+102197,57
+
+Id. Hr: 224052711 Apellido y Nombre: DEGON, ANALIA GABRIELA
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 102197,57
+
+20950,50 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 03 Suc. Bco.: 408 N? Cuenta: 012003107 Fecha Antig.: 01/01/1997  Fec. Nac.: 31/05/1974 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 36688,45
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 118100 Complemento No Rem 50000,00
+Dv 112310 Item profesionalidad Docente 24484,40
+Dv 118420 Promoción de la Calidad Educativa 11392,18
+Dv 118360 Antiguedad 58479,11
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 117730 Estado Docente 91005,94
+RT 660300 Obra Social - APROSS 14813,06
+RT 660060 Aporte Personal Jubilatorio 29626,13
+RT 673750 Cuota Afiliación UEPC 10367,34
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 10773,14
+Rem c/ Aporte 269328,41
+414693,67 65579,67 Rem s/ Aporte 145365,26
+
+Id. Hr: 224052711 Apellido y Nombre: DEGON, ANALIA GABRIELA
+
+Centro Pago: EE12402530 Cargo: 13437
+
+Sit. Revista: 03 Suc. Bco.: 408 N? Cuenta: 012003107 Fecha Antig.: 01/01/1997  Fec. Nac.: 31/05/1974 Obra Social: 500500 Cant. Hs. : 0,00
+Remuneraciones Descuentos
+
+Dv 1000003 Asignación Basica 330892,70
+
+Dv 110220 Adicional por Función Docente 366228,37
+
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+
+Dv 112310 Item profesionalidad Docente 142344,72
+
+Dv 118420 Promoción de la Calidad Educativa 125716,85
+
+Dv 118360 Antiguedad 510815,75
+
+Dv 112620 Gastos Inherentes a la Labor Docente 62042,49
+
+RT 660300 Obra Social - APROSS 86118,56
+RT 660330 Fondo de Enfermedades Catastróficas 24810,00
+
+Emision: 2024-11-28
+
+Página: 59
+Reducción PAV 0,00 Liq. Pesos: 81247,07
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 09/04/2024 Rol: 27 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 349114,00
+Reducción PAV 0,00 Liq. Pesos: 349114,00
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 04/10/2023 Rol: 26 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 1180849,80

@@ -1,0 +1,85 @@
+LIQUIDACION DE HABERES
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+163728,80
+
+Id. Hr: 225490252 Apellido y Nombre: ALANIZ, ROXANA
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 163728,80
+
+37657,62 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N” Cuenta: 001604601 Fecha Antig.: 25/04/1999  Fec. Nac.: 04/10/1976 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 1000003 Asignación Basica 36688,45
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 112310 Item profesionalidad Docente 14884,44
+Dv 118420 Promoción de la Calidad Educativa 10896,86
+Dv 118360 Antiguedad 53980,72
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 6549,15
+RT 660300 Obra Social - APROSS 9005,08
+RT 660060 Aporte Personal Jubilatorio 18010,17
+RT 673750 Cuota Afiliación UEPC 4093,22
+Rem c/ Aporte 163728,80
+163728,80 37657,62 Rem s/ Aporte 0,00
+
+Id. Hr: 225490252 Apellido y Nombre: ALANIZ, ROXANA
+
+Centro Pago: EE12402530 Cargo: 13140
+
+Sit. Revista: 01 Suc. Bco.: 408 N” Cuenta: 001604601 Fecha Antig.: 25/04/1999  Fec. Nac.: 04/10/1976 Obra Social: 500500 Cant. Hs. : 0,00
+Remuneraciones Descuentos
+
+Dv 1000003 Asignación Basica 11610,27
+
+Dv 117230 Dedicación Funcional Docente 420291,77
+
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+
+Dv 112310 Item profesionalidad Docente 160215,05
+
+Dv 112620 Gastos Inherentes a la Labor Docente 62042,49
+
+Dv 118360 Antiguedad 592733,44
+
+Dv 118420 Promoción de la Calidad Educativa 121493,06
+
+Dv 110220 Adicional por Función Docente 366228,37
+
+Dv 117100 Compensación Salarial No Rem 80000,00
+
+RT 660300 Obra Social - APROSS 96930,10
+RT 650100 Retención Impuesto a las Ganancias 20143,43
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 70494,62
+
+Emision: 2024-11-28
+
+Página: 65
+Reducción PAV 0,00 Liq. Pesos: 126071,18
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/08/2014 Rol: 64 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 126071,18
+Reducción PAV 0,00 Liq. Pesos: 126071,18
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 16/04/2019 Rol: 65 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 1390068,02

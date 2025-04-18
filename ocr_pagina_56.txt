@@ -1,0 +1,125 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+197794,66
+
+223419414 Apellido y Nombre: BRUCELLI, ANALIA VERONICA
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 23686,92
+112620 Gastos Inherentes a la Labor Docente 6221,61
+1000003 Asignación Basica 27516,34
+120170 Aporte Material Didáctico Rem. 5550,21
+118420 Promoción de la Calidad Educativa 7801,16
+118360 Antiguedad 37111,75
+112310 Item profesionalidad Docente 10788,80
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+118676,79
+
+223419414 Apellido y Nombre: BRUCELLI, ANALIA VERONICA
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 31582,56
+112620 Gastos Inherentes a la Labor Docente 8295,48
+1000003 Asignación Basica 36688,45
+120170 Aporte Material Didáctico Rem. 7400,29
+118420 Promoción de la Calidad Educativa 10401,55
+118360 Antiguedad 49482,32
+112310 Item profesionalidad Docente 14385,07
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+Fecha Antig.: 01/11/2000 Fec. Nac.: 22/03/1974 Obra Social: 500500
+
+Fecha Antig.: 01/11/2000 Fec. Nac.: 22/03/1974 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 197794,66
+
+40547,91 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+Descuentos
+4747,07
+6527,22
+13054,45
+Rem c/ Aporte 118676,79
+24328,74 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 4,00
+
+Descuentos
+
+6329,43
+8702,96
+17405,93
+
+Emision: 2024-11-28
+
+Página: S6
+Reducción PAV 0,00 Liq. Pesos: 157246,75
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2010 Rol: 24 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 94348,05
+Reducción PAV 0,00 Liq. Pesos: 94348,05
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/08/2007 Rol: 7 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 125797,40

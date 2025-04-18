@@ -1,0 +1,155 @@
+LIQUIDACION DE HABERES
+Ministerio:
+Empresa:
+
+Td. Hr:
+
+OP045 - DIPE EX NACIÓN
+
+130759862 Apellido y Nombre :
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+PARELLADA, JORGE RICARDO
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Fecha Antig.: 05/03/2014  Fec. Nac.: 15/03/1984 Obra Social: 500500
+
+Remuneraciones
+110220 Adicional por Función Docente 31582,56
+118420 Promoción de la Calidad Educativa 7429,68
+1000003 Asignación Basica 36688,45
+120170 Aporte Material Didáctico Rem. 7400,29
+112310 Item profesionalidad Docente 12971,56
+112620 Gastos Inherentes a la Labor Docente 8295,48
+133020 Asignación Familiar por Hijos 18468,00
+118100 Complemento No Rem 10000,00
+117730 Estado Docente 15827,12
+118360 Antiguedad 22491,97
+120444 Compensación Provincial Pérdida Incentivo Docente 12715,36
+660330 Fondo de Enfermedades Catastróficas
+660300 Obra Social - APROSS
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+671000 Ajuste Dif. Aporte Mínimo APROSS
+660060 Aporte Personal Jubilatorio
+
+183870,47
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+RT
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Centro Pago: EE12402530 Car,
+Cant. Hs. :
+
+Descuentos
+
+33080,00
+7847,79
+2853,74
+
+35011,37
+
+15695,58
+
+Rem c/ Aporte
+
+94488,48 Rem s/ Aporte
+
+130847995 Apellido y Nombre: PLAZA, JOSE MARIA Centro Pago: EE12402530
+Suc. Bco.: 331 N” Cuenta: 0.00000000 Fecha Antig.: 17/06/2015  Fec. Nac.: 05/09/1985 Obra Social: 500500 Cant. Hs. :
+Remuneraciones Descuentos
+
+1000003 Asignación Basica 82549,02
+
+118360 Antiguedad 40485,54
+
+120170 Aporte Material Didáctico Rem. 16650,64
+
+112310 Item profesionalidad Docente 32019,19
+
+112620 Gastos Inherentes a la Labor Docente 18664,83
+
+117730 Estado Docente 75178,82
+
+118420 Promoción de la Calidad Educativa 15602,33
+
+110220 Adicional por Función Docente 71060,76
+
+120444 Compensación Provincial Pérdida Incentivo Docente 60397,96
+
+118100 Complemento No Rem 47500,00
+
+660300 Obra Social - APROSS 19371,61
+
+674410 Descuento APROSS por afiliados Familiares Voluntar 58600,00
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7044,22
+
+660330 Fondo de Enfermedades Catastróficas 16540,00
+
+671000 Ajuste Dif. Aporte Mínimo APROSS 7627,87
+
+660060 Aporte Personal Jubilatorio 38743,22
+
+go: 13910
+4,00
+
+142687,11
+41183,36
+
+Cargo: 13910
+
+9,00
+
+Emision: 2024-11-28
+Página: 26
+
+Fecha Alta: 05/03/2014 Rol: 1 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 89381,99
+Reducción PAV 0,00 Liq. Pesos: 89381,99
+Salario Familiar: 18468,00  Liq. Letras: 0,00
+Fecha Alta: 01/03/2017 Rol: 19 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 312182,17

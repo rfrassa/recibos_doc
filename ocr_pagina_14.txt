@@ -1,0 +1,131 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+135156,02
+
+121402414 Apellido y Nombre: LISTELLO, EDUARDO FEDE
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 47373,84
+112620 Gastos Inherentes a la Labor Docente 12443,22
+1000003 Asignación Basica 55032,68
+120170 Aporte Material Didáctico Rem. 11100,43
+118420 Promoción de la Calidad Educativa 17088,26
+118360 Antiguedad 87718,67
+112310 Item profesionalidad Docente 23075,71
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+253832,81
+
+121402414 Apellido y Nombre: LISTELLO, EDUARDO FEDE
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+1000003 Asignación Basica 64204,79
+118360 Antiguedad 102338,44
+120170 Aporte Material Didáctico Rem. 12950,50
+112310 Item profesionalidad Docente 32065,48
+112620 Gastos Inherentes a la Labor Docente 14517,09
+117730 Estado Docente 51438,14
+118420 Promoción de la Calidad Educativa 19936,31
+110220 Adicional por Función Docente 55269,48
+120444 Compensación Provincial Pérdida Incentivo Docente 41324,92
+118100 Complemento No Rem 32500,00
+
+660300 Obra Social - APROSS
+674410 Descuento APROSS por afiliados Familiares Voluntar
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+Fecha Antig.: 01/03/1998  Fec. Nac.: 22/04/1970 Obra Social: 500500
+
+Fecha Antig.: 01/03/1998  Fec. Nac.: 22/04/1970 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 135156,02
+
+27706,98 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 6,00
+Descuentos
+5076,66
+13960,80
+27921,61
+Rem c/ Aporte 253832,81
+46959,07 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 7,00
+
+Descuentos
+
+19399,61
+58600,00
+7054,40
+
+Emision: 2024-11-28
+
+Página: 14
+Reducción PAV 0,00 Liq. Pesos: 107449,04
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 27/02/2012 Rol: 4 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 206873,74
+Reducción PAV 0,00 Liq. Pesos: 206873,74
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/03/2015 Rol: 5 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 267826,66

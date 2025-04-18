@@ -1,0 +1,168 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+98077,75
+
+231819012 Apellido y Nombre: RIVALTA, CARMEN ALEJANDRA
+Suc. Bco.: 408 N? Cuenta: 011377702
+
+Remuneraciones
+110220 Adicional por Función Docente 23686,92
+112620 Gastos Inherentes a la Labor Docente 6221,61
+1000003 Asignación Basica 27516,34
+120170 Aporte Material Didáctico Rem. 5550,21
+112310 Item profesionalidad Docente 8916,16
+118420 Promoción de la Calidad Educativa 5943,74
+118360 Antiguedad 20242,77
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+673750 Cuota Afiliación UEPC
+
+98077,75
+
+231819012 Apellido y Nombre: RIVALTA, CARMEN ALEJANDRA
+Suc. Bco.: 408 N? Cuenta: 011377702
+
+Remuneraciones
+110220 Adicional por Función Docente 23686,92
+112620 Gastos Inherentes a la Labor Docente 6221,61
+1000003 Asignación Basica 27516,34
+120170 Aporte Material Didáctico Rem. 5550,21
+112310 Item profesionalidad Docente 8916,16
+118420 Promoción de la Calidad Educativa 5943,74
+118360 Antiguedad 20242,77
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+3923,11
+5394,28
+10788,55
+2451,94
+
+22557,88
+
+Centro Pago: EE12402530
+
+Fecha Antig.: 01/03/2010 Fec. Nac.: 16/08/1985 Obra Social: 500500
+
+Descuentos
+
+3923,11
+5394,28
+10788,55
+2451,94
+
+22557,88
+
+Centro Pago: EE12402530
+
+Fecha Antig.: 01/03/2010 Fec. Nac.: 16/08/1985 Obra Social: 500500
+
+Descuentos
+
+3923,11
+5394,28
+10788,55
+2451,94
+
+Fecha de Pago: 20
+Anexo: EE
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Cant. Hs. :
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Cant. Hs. :
+
+24-11-25
+
+98077,75
+0,00
+
+Cargo: 13910
+
+3,00
+
+98077,75
+0,00
+
+Cargo: 13910
+
+3,00
+
+Emision: 2024-11-28
+Página: 96
+Reducción PAV 0,00 Liq. Pesos: 75519,87
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2015 Rol: 11 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 75519,87
+
+Reducción PAV 0,00 Liq. Pesos: 75519,87
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 28/02/2012 Rol: 10 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 75519,87

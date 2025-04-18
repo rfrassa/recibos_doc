@@ -1,0 +1,53 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 118676,79
+118676,79 24328,74 Rem s/ Aporte 0,00
+Id. Hr: 118184705 Apellido y Nombre: ACCOTTO, ROBERTO MARCELO Centro Pago: EE03104080 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 002270308 Fecha Antig.: 01/04/2002  Fec. Nac.: 15/12/1970 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 7801,16
+Dv 118360 Antiguedad 37111,75
+Dv 112310 Item profesionalidad Docente 10788,80
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4747,07
+RT 660300 Obra Social - APROSS 6527,22
+RT 660060 Aporte Personal Jubilatorio 13054,45
+Rem c/ Aporte 118676,79
+118676,79 24328,74 Rem s/ Aporte 0,00
+Id. Hr: 118184705 Apellido y Nombre: ACCOTTO, ROBERTO MARCELO Centro Pago: EE03104080 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 002270308 Fecha Antig.: 01/04/2002  Fec. Nac.: 15/12/1970 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 118420 Promoción de la Calidad Educativa 13001,94
+Dv 118360 Antiguedad 61852,91
+Dv 112310 Item profesionalidad Docente 17981,33
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7911,79
+RT 660300 Obra Social - APROSS 10878,71
+RT 660060 Aporte Personal Jubilatorio 21757,41
+
+Emision: 2024-11-28
+
+Página: 8
+Reducción PAV 0,00 Liq. Pesos: 94348,05
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/10/2005 Rol: 4 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 94348,05
+Reducción PAV 0,00 Liq. Pesos: 94348,05
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/10/2002 Rol: 2 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 157246,75

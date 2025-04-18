@@ -1,0 +1,111 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+RT 660300 Obra Social - APROSS
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+89838,14
+
+Id. Hr: 235669297 Apellido y Nombre: TOBARES, MARIA AGUSTINA
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 011685205 Fecha Antig.: 01/04/2015  Fec. Nac.: 28/07/1991
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 8167,10
+Dv 118420 Promoción de la Calidad Educativa 5200,78
+Dv 118360 Antiguedad 13495,18
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660300 Obra Social - APROSS
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+
+89838,14
+
+Id. Hr: 235669297 Apellido y Nombre: TOBARES, MARIA AGUSTINA
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 011685205 Fecha Antig.: 01/04/2015  Fec. Nac.: 28/07/1991
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 15791,28
+Dv 112620 Gastos Inherentes a la Labor Docente 4147,74
+Dv 1000003 Asignación Basica 18344,23
+Dv 120170 Aporte Material Didáctico Rem. 3700,14
+Dv 112310 Item profesionalidad Docente 5444 74
+Dv 118420 Promoción de la Calidad Educativa 3467,18
+Dv 118360 Antiguedad 8996,79
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660300 Obra Social - APROSS
+RT 660060 Aporte Personal Jubilatorio
+
+RT
+
+673750 Cuota Afiliación UEPC
+
+4941,10
+9882,20
+2245,95
+
+19764,39
+
+Centro Pago: EE0S5201580
+
+Descuentos
+
+2695,14
+4941,10
+9882,20
+2245,95
+
+19764,39
+
+Centro Pago: EE0S5201580
+
+Descuentos
+
+1796,76
+3294,07
+6588,13
+1497,30
+
+Obra Social: 500500
+
+Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 89838,14
+Rem s/ Aporte 0,00
+
+Cargo: 13910
+Cant. Hs. : 3,00
+
+89838,14
+Rem s/ Aporte 0,00
+
+Rem c/ Aporte
+
+Cargo: 13910
+Cant. Hs. : 2,00
+
+Emision: 2024-11-28
+Página: 112
+Reducción PAV 0,00 Liq. Pesos: 70073,75
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 03/03/2020 Rol: 15 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 70073,75
+
+Reducción PAV 0,00 Liq. Pesos: 70073,75
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 03/03/2020 Rol: 14 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 46715,84

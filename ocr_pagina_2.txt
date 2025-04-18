@@ -1,0 +1,134 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Id. Hr: 117385498 Apellido y Nombre: GARCIA, JAVIER A Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 15/04/2004  Fec. Nac.: 30/07/1965 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 118420 Promoción de la Calidad Educativa 12382,80
+Dv 118360 Antiguedad 56229,92
+Dv 112310 Item profesionalidad Docente 17357,12
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7637,13
+RT 660300 Obra Social - APROSS 10501,06
+RT 660060 Aporte Personal Jubilatorio 21002,12
+Rem c/ Aporte 190928,32
+190928,32 39140,31 Rem s/ Aporte 0,00
+Id. Hr: 117385498 Apellido y Nombre: GARCIA, JAVIER A Centro Pago: EE12402530 Cargo: 13165
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+RT
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+
+117730 Estado Docente
+
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+112310 Item profesionalidad Docente
+
+112620 Gastos Inherentes a la Labor Docente
+120444 Compensación Provincial Pérdida Incentivo Docente
+117100 Compensación Salarial No Rem
+
+118100 Complemento No Rem
+
+117230 Dedicación Funcional Docente
+
+118360 Antiguedad
+
+118420 Promoción de la Calidad Educativa
+
+677580 Desc. de Hab. No Rem. - Revisiones
+660300 Obra Social - APROSS
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660330 Fondo de Enfermedades Catastróficas
+677600 Desc. de Hab. Rem. - Revisiones
+
+660060 Aporte Personal Jubilatorio
+
+Fecha Antig.: 15/04/2004  Fec. Nac.: 30/07/1965 Obra Social: 500500
+
+Remuneraciones
+301213,11
+79135,60
+9636,52
+27751,07
+117103,48
+43533,31
+63576,83
+80000,00
+50000,00
+273073,55
+326243,38
+110448,24
+
+1481715,09
+
+Cant. Hs. : 0,00
+
+Descuentos
+
+1619,02
+68262,92
+49645,76
+
+8270,00
+46994,22
+
+136525,84
+
+Rem c/ Aporte 1288138,26
+
+311317,76
+193576,83
+
+Rem s/ Aporte
+
+Emision: 2024-11-28
+Página: 2
+Fecha Alta: 08/06/2019 Rol: 11 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 151788,01
+
+Reducción PAV 0,00 Liq. Pesos: 151788,01
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 16/04/2019 Rol: 10 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 1170397,33
+Reducción PAV 0,00 Liq. Pesos: 1170397,33
+Salario Familiar: 0,00 Liq. Letras: 0,00

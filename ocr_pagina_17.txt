@@ -1,0 +1,65 @@
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+LIQUIDACION DE HABERES
+OP045 - DIPE EX NACIÓN
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+RT 673750 Cuota Afiliación UEPC 3406,59
+Rem c/ Aporte 136263,41
+136263,41 35775,89 Rem s/ Aporte 0,00
+Id. Hr: 122220326 Apellido y Nombre: PIAZZA, EDGARDO DANIEL Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/02/1998  Fec. Nac.: 08/05/1971 Obra Social: 500500 Cant. Hs. : 6,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 55032,68
+Dv 118100 Complemento No Rem 15000,00
+Dv 120170 Aporte Material Didáctico Rem. 11100,43
+Dv 112310 Item profesionalidad Docente 25449,78
+Dv 112620 Gastos Inherentes a la Labor Docente 12443,22
+Dv 117730 Estado Docente 23740,68
+Dv 118420 Promoción de la Calidad Educativa 17088,26
+Dv 110220 Adicional por Función Docente 47373,84
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 19073,04
+Dv 118360 Antiguedad 87718,67
+RT 660300 Obra Social - APROSS 15397,12
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 5598,95
+RT 660330 Fondo de Enfermedades Catastróficas 8270,00
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 27626,72
+RT 660060 Aporte Personal Jubilatorio 30794,23
+Rem c/ Aporte 279947,56
+314020,60 87687,02 Rem s/ Aporte 34073,04
+
+Id. Hr: 122361550 Apellido y Nombre: FORNERIS, HERNAN ROBERTO Centro Pago: EE12402530 Cargo: 13181
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/10/1998  Fec. Nac.: 29/11/1971 Obra Social: 500500 Cant. Hs. : 0,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 10449,24
+Dv 117100 Compensación Salarial No Rem 80000,00
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+Dv 117230 Dedicación Funcional Docente 349469,13
+Dv 112310 Item profesionalidad Docente 140528,41
+Dv 118420 Promoción de la Calidad Educativa 127015,48
+Dv 118360 Antiguedad 536563,38
+
+Dv 112620 Gastos Inherentes a la Labor Docente 52822,69
+
+Emision: 2024-11-28
+Página: 17
+Reducción PAV 0,00 Liq. Pesos: 100487,52
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 25/08/1999 Rol: 1 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 226333,58
+
+Reducción PAV 0,00 Liq. Pesos: 226333,58
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/09/2004 Rol: 15 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 1275840,94

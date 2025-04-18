@@ -1,0 +1,193 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01 Suc. Bco.: 408
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01 Suc. Bco.: 408
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+
+120170 Aporte Material Didáctico Rem.
+
+112310 Item profesionalidad Docente
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+665150 Caja Complementaria Ex Nación
+
+660060 Aporte Personal Jubilatorio
+
+117679690
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+665150 Caja Complementaria Ex Nación
+660060 Aporte Personal Jubilatorio
+
+117679690
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+Apellido y Nombre: GUEVARA, DANIEL
+N" Cuenta: 000691604
+
+Apellido y Nombre: GUEVARA, DANIEL
+N" Cuenta: 000691604
+
+7400,29
+16382,55
+12382,80
+67475,90
+
+180208,03
+
+Remuneraciones
+
+31582,56
+
+8295,48
+36688,45
+
+7400,29
+16382,55
+12382,80
+67475,90
+
+180208,03
+
+Remuneraciones
+
+31582,56
+
+8295,48
+36688,45
+
+7400,29
+16382,55
+12382,80
+67475,90
+
+7208,32
+9911,44
+8109,36
+19822,88
+
+45052,00
+
+Centro Pago: EE03104080
+
+Descuentos
+
+7208,32
+9911,44
+8109,36
+19822,88
+
+45052,00
+
+Centro Pago: EE03104080
+
+Descuentos
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Fecha Antig.: 20/10/1990 Fec. Nac.: 20/06/1966 Obra Social: 500500
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Fecha Antig.: 20/10/1990 Fec. Nac.: 20/06/1966 Obra Social: 500500
+
+Cant. Hs. :
+
+180208,03
+0,00
+
+Cargo: 13910
+
+4,00
+
+180208,03
+0,00
+
+Cargo: 13910
+Cant. Hs. : 4,00
+
+Emision: 2024-11-28
+
+Página: 4
+Reducción PAV 0,00 Liq. Pesos: 135156,03
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/12/2004 Rol: 3 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 135156,03
+
+Reducción PAV 0,00 Liq. Pesos: 135156,03
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 07/03/2005 Rol: 4 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 135156,03

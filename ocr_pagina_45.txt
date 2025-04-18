@@ -1,0 +1,61 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 1405,93
+RT 660060 Aporte Personal Jubilatorio 20817,14
+Rem c/ Aporte 189246,73
+302823,53 46579,04
+Rem s/ Aporte 113576,80
+Id. Hr: 217809904 Apellido y Nombre: QUINTANA, ADRIANA INES Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011177700 Fecha Antig.: 15/04/2008  Fec. Nac.: 21/10/1966 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 6315,23
+Dv 118360 Antiguedad 23616,57
+Dv 112310 Item profesionalidad Docente 9290,69
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 3065,93
+RT 660300 Obra Social - APROSS 5620,87
+RT 660060 Aporte Personal Jubilatorio 11241,73
+Rem c/ Aporte 102197,57
+102197,57 19928,53 Rem s/ Aporte 0,00
+Id. Hr: 217809904 Apellido y Nombre: QUINTANA, ADRIANA INES Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011177700 Fecha Antig.: 15/04/2008  Fec. Nac.: 21/10/1966 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 6315,23
+Dv 118360 Antiguedad 23616,57
+Dv 112310 Item profesionalidad Docente 9290,69
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 3065,93
+RT 660300 Obra Social - APROSS 5620,87
+RT 660060 Aporte Personal Jubilatorio 11241,73
+
+Emision: 2024-11-28
+
+Página: 45
+Reducción PAV 0,00 Liq. Pesos: 256244,49
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/09/2014 Rol: 29 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 82269,04
+Reducción PAV 0,00 Liq. Pesos: 82269,04
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/09/2014 Rol: 24 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 82269,04

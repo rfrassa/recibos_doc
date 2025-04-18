@@ -1,0 +1,75 @@
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+LIQUIDACION DE HABERES
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7208,32
+RT 660300 Obra Social - APROSS 9911,44
+RT 665150 Caja Complementaria Ex Nación 8109,36
+RT 660060 Aporte Personal Jubilatorio 19822,88
+Rem c/ Aporte 180208,03
+180208,03 45052,00 Rem s/ Aporte 0.00
+
+Id. Hr: 117679690 Apellido y Nombre: GUEVARA, DANIEL Centro Pago: EE03104080 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 000691604 Fecha Antig.: 20/10/1990 Fec. Nac.: 20/06/1966 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 1000003 Asignación Basica 36688,45
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 118420 Promoción de la Calidad Educativa 12382,80
+Dv 118360 Antiguedad 67475,90
+Dv 112310 Item profesionalidad Docente 16382,55
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7208,32
+RT 660300 Obra Social - APROSS 9911,44
+RT 660060 Aporte Personal Jubilatorio 19822,88
+Rem c/ Aporte 180208,03
+180208,03 36942,64 Rem s/ Aporte 0,00
+
+Id. Hr: 117906381 Apellido y Nombre: ROLLE, SERGIO MIGUEL Centro Pago: EE12402530 Cargo: 13436
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/08/1993  Fec. Nac.: 03/11/1966 Obra Social: 500500 Cant. Hs. : 0,00
+Remuneraciones Descuentos
+
+Dv 1000003 Asignación Basica 325087,56
+
+Dv 118100 Complemento No Rem 50000,00
+
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+
+Dv 110220 Adicional por Función Docente 239392,91
+
+Dv 112310 Item profesionalidad Docente 141798,49
+
+Dv 118420 Promoción de la Calidad Educativa 136648,75
+
+Dv 118360 Antiguedad 563408,00
+
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+
+Dv 112620 Gastos Inherentes a la Labor Docente 50517,77
+
+Dv 117730 Estado Docente 75178,82
+
+RT 660300 Obra Social - APROSS 85788,09
+
+RT 660330 Fondo de Enfermedades Catastróficas 8270,00
+
+Emision: 2024-11-28
+Página: 5
+Reducción PAV 0,00 Liq. Pesos: 135156,03
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 13/03/2001 Rol: 43 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 143265,39
+Reducción PAV 0,00 Liq. Pesos: 143265,39
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/08/1993 Rol: 1 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 1377123,04

@@ -1,0 +1,103 @@
+LIQUIDACION DE HABERES
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+RT 660300 Obra Social - APROSS
+RT 660060 Aporte Personal Jubilatorio
+
+283641,14
+
+Id. Hr: 225052182
+
+Sit. Revista: 01
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 235725,43
+Dv 112620 Gastos Inherentes a la Labor Docente 38905,43
+Dv 1000003 Asignación Basica 123649,38
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+Dv 112310 Item profesionalidad Docente 61192,28
+Dv 118420 Promoción de la Calidad Educativa 88358,59
+Dv 118360 Antiguedad 97532,89
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660300 Obra Social - APROSS
+RT 660330 Fondo de Enfermedades Catastróficas
+RT 660060 Aporte Personal Jubilatorio
+
+673115,07
+
+Id. Hr: 225490252 Apellido y Nombre: ALANIZ, ROXANA
+
+Apellido y Nombre: BARRIENTOS LANDI, ANDREA LORENA ITATI
+
+Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/05/2010  Fec. Nac.: 13/02/1976 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+9703,21
+19406,42
+Rem c/ Aporte 176421,99
+34402729 Roms Aporte 107219,15
+
+Centro Pago: EE12402530 Cargo: 13520
+
+Cant. Hs. : 0,00
+Descuentos
+
+20193,45
+37021,33
+8270,00
+74042,66
+
+Rem c/ Aporte 673115,07
+
+139527,44 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N” Cuenta: 001604601 Fecha Antig.: 25/04/1999  Fec. Nac.: 04/10/1976 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 31582,56
+
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+
+Dv 1000003 Asignación Basica 36688,45
+
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+
+Dv 112310 Item profesionalidad Docente 14884,44
+
+Dv 118420 Promoción de la Calidad Educativa 10896,86
+
+Dv 118360 Antiguedad 53980,72
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 6549,15
+RT 660300 Obra Social - APROSS 9005,08
+RT 660060 Aporte Personal Jubilatorio 18010,17
+RT 673750 Cuota Afiliación UEPC 4093,22
+
+Emision: 2024-11-28
+
+Página: 64
+Reducción PAV 0,00 Liq. Pesos: 249238,85
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/03/2011 Rol: 14 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 533587,63
+Reducción PAV 0,00 Liq. Pesos: 533587,63
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 02/08/2014 Rol: 63 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 126071,18

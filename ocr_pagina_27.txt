@@ -1,0 +1,54 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 352211,13
+460109,09 147926,92
+Rem s/ Aporte 107897,96
+Id. Hr: 130847995 Apellido y Nombre: PLAZA, JOSE MARIA Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 331 N” Cuenta: 0.00000000 Fecha Antig.: 17/06/2015  Fec. Nac.: 05/09/1985 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 5200,78
+Dv 118360 Antiguedad 13495,18
+Dv 112310 Item profesionalidad Docente 8167,10
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 1796,76
+RT 660300 Obra Social - APROSS 4941,10
+RT 660060 Aporte Personal Jubilatorio 9882,20
+Rem c/ Aporte 89838,14
+89838,14 16620,06 Rem s/ Aporte 0,00
+Id. Hr: 130847995 Apellido y Nombre: PLAZA, JOSE MARIA Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 331 N” Cuenta: 0.00000000 Fecha Antig.: 17/06/2015  Fec. Nac.: 05/09/1985 Obra Social: 500500 Cant. Hs. : 7,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 55269,48
+Dv 112620 Gastos Inherentes a la Labor Docente 14517,09
+Dv 1000003 Asignación Basica 64204,79
+Dv 120170 Aporte Material Didáctico Rem. 12950,50
+Dv 118420 Promoción de la Calidad Educativa 12135,14
+Dv 118360 Antiguedad 31488,75
+Dv 112310 Item profesionalidad Docente 19056,58
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4192,45
+RT 660300 Obra Social - APROSS 11529,23
+RT 660060 Aporte Personal Jubilatorio 23058,46
+
+Emision: 2024-11-28
+
+Página: 27
+Reducción PAV 0,00 Liq. Pesos: 312182,17
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 13/06/2017 Rol: 21 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 73218,08
+Reducción PAV 0,00 Liq. Pesos: 73218,08
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 05/08/2024 Rol: 27 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 170842,19

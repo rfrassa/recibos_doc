@@ -1,0 +1,105 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+660060 Aporte Personal Jubilatorio
+
+114556,98
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+12601,27
+
+Rem c/ Aporte 114556,98
+
+23484,18 Rem s/ Aporte 0,00
+
+226426245 Apellido y Nombre: ARGUELLO, CLAUDIA ADRIANA Centro Pago: EE03108390 Cargo: 13910
+Suc. Bco.: 408 N? Cuenta: 082953405 Fecha Antig.: 01/07/2003  Fec. Nac.: 04/04/1978 Obra Social: 500500 Cant. Hs. : 2,00
+Remuneraciones Descuentos
+110220 Adicional por Función Docente 15791,28
+112620 Gastos Inherentes a la Labor Docente 4147,74
+1000003 Asignación Basica 18344,23
+120170 Aporte Material Didáctico Rem. 3700,14
+118420 Promoción de la Calidad Educativa 4953,12
+118360 Antiguedad 22491,97
+112310 Item profesionalidad Docente 6942,85
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724 3054,85
+660300 Obra Social - APROSS 4200,42
+660060 Aporte Personal Jubilatorio 8400,85
+Rem c/ Aporte 76371,33
+76371,33 15656,12 Rem s/ Aporte 0,00
+
+226426245 Apellido y Nombre: ARGUELLO, CLAUDIA ADRIANA
+
+Centro Pago: EE03108390 Cargo: 13910
+
+Suc. Bco.: 408 N? Cuenta: 082953405 Fecha Antig.: 01/07/2003  Fec. Nac.: 04/04/1978 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+110220 Adicional por Función Docente 23686,92
+112620 Gastos Inherentes a la Labor Docente 6221,61
+1000003 Asignación Basica 27516,34
+120170 Aporte Material Didáctico Rem. 5550,21
+118420 Promoción de la Calidad Educativa 7429,68
+118360 Antiguedad 33737,95
+112310 Item profesionalidad Docente 10414,27
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4582,28
+660300 Obra Social - APROSS 6300,63
+660060 Aporte Personal Jubilatorio 12601,27
+
+Emision: 2024-11-28
+
+Página: 67
+Reducción PAV 0,00 Liq. Pesos: 91072,80
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 28/02/2012 Rol: 31 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 60715,21
+Reducción PAV 0,00 Liq. Pesos: 60715,21
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/08/2007 Rol: 13 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 91072,80

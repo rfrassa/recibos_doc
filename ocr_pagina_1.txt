@@ -1,0 +1,179 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+
+Empresa:
+Id. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+116509419 Apellido y Nombre :
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+1000003 Asignación Basica
+
+118100 Complemento No Rem
+
+120170 Aporte Material Didáctico Rem.
+
+112310 Item profesionalidad Docente
+
+112620 Gastos Inherentes a la Labor Docente
+117730 Estado Docente
+
+118420 Promoción de la Calidad Educativa
+
+110220 Adicional por Función Docente
+
+120444 Compensación Provincial Pérdida Incentivo Docente
+118360 Antiguedad
+
+660300 Obra Social - APROSS
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660330 Fondo de Enfermedades Catastróficas
+665150 Caja Complementaria Ex Nación
+
+660060 Aporte Personal Jubilatorio
+
+116509419 Apellido y Nombre :
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+MARCHETTI, DANTE OMAR
+Fecha Antig.: 01/06/1985 Fec. Nac.: 08/08/1964 Obra Social: 500500
+
+Remuneraciones
+330892,70
+50000,00
+27751,07
+158814,50
+62042,49
+75178,82
+136648,75
+366228,37
+95365,26
+589402,79
+
+1892324,75
+
+MARCHETTI, DANTE OMAR
+Fecha Antig.: 01/06/1985 Fec. Nac.: 08/08/1964 Obra Social: 500500
+
+Remuneraciones
+31582,56
+8295,48
+36688,45
+7400,29
+
+12382,80
+67475,90
+16382,55
+
+180208,03
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Centro Pago: EE12402530 Cargo: 13437
+Cant. Hs. : 0,00
+
+Descuentos
+
+96082,77
+69878,38
+8270,00
+78613,18
+192165,54
+
+1746959,49
+145365,26
+
+Rem c/ Aporte
+
+445009,87 Rem s/ Aporte
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 4,00
+Descuentos
+7208,32
+9911,44
+19822,88
+Rem c/ Aporte 180208,03
+36942,64
+
+Rem s/ Aporte 0,00
+
+Emision: 2024-11-28
+Página: 1
+
+Fecha Alta: 01/01/1993 Rol: 1 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 1447314,88
+Reducción PAV 0,00 Lig. Pesos: — 1447314,88
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/09/2000 Rol: 2 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 143265,39
+Reducción PAV 0,00 Liq. Pesos: 143265,39
+Salario Familiar: 0,00 Liq. Letras: 0,00

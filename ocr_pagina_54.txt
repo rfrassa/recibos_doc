@@ -1,0 +1,157 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+
+117730 Estado Docente
+
+660300 Obra Social - APROSS
+
+660330 Fondo de Enfermedades Catastróficas
+660060 Aporte Personal Jubilatorio
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+223419414 Apellido y Nombre: BRUCELLI, ANALIA VERONICA
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+223419414 Apellido y Nombre: BRUCELLI, ANALIA VERONICA
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+122660,18
+16123,91
+24810,00
+32247,81
+11726,48
+Rem c/ Aporte 293161,91
+438527,17 84908,20 Rem s/ Aporte 14536526
+Centro Pago: EE12402530 Cargo: 13910
+Fecha Antig.: 01/11/2000  Fec. Nac.: 22/03/1974 Obra Social: 500500 Cant. Hs. : 5,00
+Descuentos
+39478,20
+10369,35
+45860,57
+9250,36
+13001,94
+61852,91
+17981,33
+7911,79
+10878,71
+21757,41
+Rem c/ Aporte 197794,66
+197794,66 40547,91 Rem s/ Aporte 0,00
+Centro Pago: EE12402530 Cargo: 13910
+Fecha Antig.: 01/11/2000 Fec. Nac.: 22/03/1974 Obra Social: 500500 Cant. Hs. : 5,00
+Descuentos
+39478,20
+10369,35
+45860,57
+9250,36
+13001,94
+61852,91
+17981,33
+7911,79
+10878,71
+21757,41
+
+Emision: 2024-11-28
+
+Página: 54
+Reducción PAV 0,00 Liq. Pesos: 353618,97
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 05/07/2024 Rol: 33 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 157246,75
+Reducción PAV 0,00 Liq. Pesos: 157246,75
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 05/07/2024 Rol: 32 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 157246,75

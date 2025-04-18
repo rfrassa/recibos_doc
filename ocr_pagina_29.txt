@@ -1,0 +1,128 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+
+Dv 112620 Gastos Inherentes a la Labor Docente 38905,43
+Dv 112310 Item profesionalidad Docente 77418,20
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660300 Obra Social - APROSS
+RT 660060 Aporte Personal Jubilatorio
+
+996965,44
+Id. Hr: 132772190 Apellido y Nombre: PICCA, HERNAN RENE
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 366228,37
+112620 Gastos Inherentes a la Labor Docente 62042,49
+1000003 Asignación Basica 330892,70
+120170 Aporte Material Didáctico Rem. 27751,07
+112310 Item profesionalidad Docente 119964,99
+118420 Promoción de la Calidad Educativa 98387,10
+118360 Antiguedad 314348,15
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660330 Fondo de Enfermedades Catastróficas
+660060 Aporte Personal Jubilatorio
+
+1319614,87
+
+133198929 Apellido y Nombre: GOMEZ, PAOLO LEANDRO
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+1000003 Asignación Basica 64204,79
+118100 Complemento No Rem 17500,00
+120170 Aporte Material Didáctico Rem. 12950,50
+112310 Item profesionalidad Docente 21826,32
+112620 Gastos Inherentes a la Labor Docente 14517,09
+117730 Estado Docente 27697,46
+118420 Promoción de la Calidad Educativa 12135,14
+110220 Adicional por Función Docente 55269,48
+120444 Compensación Provincial Pérdida Incentivo Docente 22251,88
+118360 Antiguedad 31488,75
+
+Fecha Antig.: 01/03/2007  Fec. Nac.: 10/10/1986 Obra Social: 500500
+
+Fecha Antig.: 14/06/2017  Fec. Nac.: 20/10/1987 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+34064,01
+46838,01
+93676,02
+Rem c/ Aporte 851600,18
+174578,04 Rem s/ Aporte 145365,26
+
+Centro Pago: EE12402530 Cargo: 13437
+
+Cant. Hs. : 0,00
+Descuentos
+
+52784,59
+72578,82
+24810,00
+145157,64
+
+Rem c/ Aporte 1319614,87
+
+295331,05 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 7,00
+
+Descuentos
+
+Emision: 2024-11-28
+
+Página: 29
+Reducción PAV 0,00 Liq. Pesos: 822387,40
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 14/02/2011 Rol: 20 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 1024283,82
+Reducción PAV 0,00 Liq. Pesos: 1024283,82
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 14/06/2017 Rol: 1 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 197383,76

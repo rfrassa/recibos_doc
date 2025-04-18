@@ -1,0 +1,138 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01 Suc. Bco.: 408
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+231819029 Apellido y Nombre: GOMILA, DANIELA ROXANA
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+231819126 Apellido y Nombre:  AUDISIO, MARIA VICTORIA
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+N? Cuenta: 011177904
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+
+Remuneraciones
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+Rem c/ Aporte 177195,63
+177195,63 40755,00 Rem s/ Aporte 0,00
+Centro Pago: EE03106110 Cargo: 13910
+Fecha Antig.: 01/06/2007  Fec. Nac.: 02/09/1985 Obra Social: 500500 Cant. Hs. : 4,00
+Descuentos
+31582,56
+8295,48
+36688,45
+7400,29
+12886,95
+8915,62
+35987,14
+5670,26
+7796,61
+15593,21
+3543,91
+Rem c/ Aporte 141756,49
+141756,49 32603,99 Rem s/ Aporte 0,00
+Centro Pago: EE12402530 Cargo: 13910
+Fecha Antig.: 01/03/2010  Fec. Nac.: 26/01/1986 Obra Social: 500500 Cant. Hs. : 5,00
+Descuentos
+39478,20
+10369,35
+45860,57
+9250,36
+9906,24
+33737,95
+14860,27
+6538,52
+8990,46
+17980,92
+
+Emision: 2024-11-28
+
+Página: 98
+Reducción PAV 0,00 Liq. Pesos: 136440,63
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/07/2009 Rol: 15 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 109152,50
+Reducción PAV 0,00 Liq. Pesos: 109152,50
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2011 Rol: 11 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 129953,04

@@ -1,0 +1,36 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 101
+
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 163462,94 Reducción PAV 0,00 Liq. Pesos: 129953,04
+163462,94 3350990 Rm s/ Aporte o.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 231819126 Apellido y Nombre: AUDISIO, MARIA VICTORIA Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 02/08/2014 Rol: 16 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2010  Fec. Nac.: 26/01/1986 Obra Social: 500500 Cant. Hs. : 5,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 129953,04
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 118420 Promoción de la Calidad Educativa 9906,24
+Dv 118360 Antiguedad 33737,95
+Dv 112310 Item profesionalidad Docente 14860,27
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 6538,52
+RT 660300 Obra Social - APROSS 8990,46
+RT 660060 Aporte Personal Jubilatorio 17980,92
+Rem c/ Aporte 163462,94 Reducción PAV 0,00 Liq. Pesos: 129953,04
+163462,94 3350990 Rm s/ Aporte 0.00 — Salario Familiar: 0,00 Liq. Letras: 0,00
+Id. Hr: 231819135 Apellido y Nombre: CUGAT, MARIEL Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 01/03/2011 Rol: 14 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 02/03/2009 Fec. Nac.: 03/02/1986 Obra Social: 500500 Cant. Hs. : 3,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 82269,04
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 6315,23
+Dv 118360 Antiguedad 23616,57
+Dv 112310 Item profesionalidad Docente 9290,69
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 3065,93
+RT 660300 Obra Social - APROSS 5620,87
+
+RT 660060 Aporte Personal Jubilatorio 11241,73

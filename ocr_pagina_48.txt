@@ -1,0 +1,61 @@
+Ministerio:
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+LIQUIDACION DE HABERES
+OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 50522,94
+RT 660330 Fondo de Enfermedades Catastróficas 24810,00
+RT 660060 Aporte Personal Jubilatorio 138938,09
+Rem c/ Aporte 1263073,56
+1360756,19 342340,08 Rem s/ Aporte 97682,63
+
+Id. Hr: 222155383 Apellido y Nombre: GIRAUDO, MARTA KARINA Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 23/11/2010  Fec. Nac.: 01/02/1972 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 113260 Total Retroactivos con Aportes 102180,41
+Dv 118360 Antiguedad 20242,77
+Dv 1000003 Asignación Basica 27516,34
+Dv 118100 Complemento No Rem 50000,00
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 18412,43
+Dv 117730 Estado Docente 94962,72
+Dv 118420 Promoción de la Calidad Educativa 5943,74
+Dv 113300 Total Retroactivos sin Aportes 119628,00
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 76292,16
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 110220 Adicional por Función Docente 23686,92
+RT 660300 Obra Social - APROSS 16759,44
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 9141,51
+RT 660330 Fondo de Enfermedades Catastróficas 16540,00
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 1442,01
+RT 660060 Aporte Personal Jubilatorio 33518,89
+RT 673750 Cuota Afiliación UEPC 10775,23
+Rem c/ Aporte 304717,15
+550637,31 88177,08 Rem s/ Aporte 245920,16
+Id. Hr: 222687903 Apellido y Nombre: DEFAGO, MARIA V Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/03/1996 Fec. Nac.: 20/07/1972 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 118420 Promoción de la Calidad Educativa 8915,62
+
+Emision: 2024-11-28
+Página: 48
+Reducción PAV 0,00 Lig. Pesos: 1018416,11
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2011 Rol: 22 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 462460,23
+Reducción PAV 0,00 Liq. Pesos: 462460,23
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 02/03/2015 Rol: 23 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 104173,79

@@ -1,0 +1,60 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 6
+
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+RT 660060 Aporte Personal Jubilatorio 171576,17
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 62391,33
+Rem c/ Aporte 1559783,37 Reducción PAV 0,00 Liq. Pesos: 1377123,04
+1705148,63 32802559 Rom s/ Aporte 14536526 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 117906381 Apellido y Nombre: ROLLE, SERGIO MIGUEL Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 01/07/2009 Rol: 2 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/08/1993  Fec. Nac.: 03/11/1966 Obra Social: 500500 Cant. Hs. : 4,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 143265,39
+
+Dv 110220 Adicional por Función Docente 31582,56
+
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+
+Dv 1000003 Asignación Basica 36688,45
+
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+
+Dv 118420 Promoción de la Calidad Educativa 12382,80
+
+Dv 118360 Antiguedad 67475,90
+
+Dv 112310 Item profesionalidad Docente 16382,55
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7208,32
+
+RT 660300 Obra Social - APROSS 9911,44
+
+RT 660060 Aporte Personal Jubilatorio 19822,88
+
+Rem c/ Aporte 180208,03 Reducción PAV 0,00 Liq. Pesos: 143265,39
+180208,03 IA mms] Aporte 0.00 — Salario Familiar: 0,00 Liq. Letras: 0,00
+Id. Hr: 118184705 Apellido y Nombre: ACCOTTO, ROBERTO MARCELO Centro Pago: EE03104080 Cargo: 13910 Fecha Alta: 01/10/2005 Rol: 3 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 002270308 Fecha Antig.: 01/04/2002  Fec. Nac.: 15/12/1970 Obra Social: 500500 Cant. Hs. : 18,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 450909,71
+
+Dv 110220 Adicional por Función Docente 142121,52
+
+Dv 112620 Gastos Inherentes a la Labor Docente 37329,66
+
+Dv 1000003 Asignación Basica 165098,04
+
+Dv 120170 Aporte Material Didáctico Rem. 33301,28
+
+Dv 112310 Item profesionalidad Docente 64732,80
+
+Dv 118420 Promoción de la Calidad Educativa 46806,98
+
+Dv 118360 Antiguedad 222670,47
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 28482,43
+
+RT 660300 Obra Social - APROSS 39163,34
+
+RT 671750 Descto. Prest. Personales Bco. de Córdoba 115178,59
+
+RT 660060 Aporte Personal Jubilatorio 78326,68

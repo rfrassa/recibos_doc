@@ -1,0 +1,118 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+DV 112310 Item profesionalidad Docente
+
+DV 112620 Gastos Inherentes a la Labor Docente
+
+DV 133020 Asignación Familiar por Hijos
+
+DV 118100 Complemento No Rem
+
+DV 117730 Estado Docente
+
+DV 118360 Antiguedad
+
+DV 120444 Compensación Provincial Pérdida Incentivo Docente
+RT 660330 Fondo de Enfermedades Catastróficas
+
+RT 660300 Obra Social - APROSS
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS
+
+RT 660060 Aporte Personal Jubilatorio
+
+Id. Hr: 129514204
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+DV 1000003 Asignación Basica
+
+DV 118100 Complemento No Rem
+
+DV 120170 Aporte Material Didáctico Rem.
+
+DV 112310 Item profesionalidad Docente
+
+DV 133020 Asignación Familiar por Hijos
+
+DV 112620 Gastos Inherentes a la Labor Docente
+
+DV 117730 Estado Docente
+
+DV 118420 Promoción de la Calidad Educativa
+
+DV 110220 Adicional por Función Docente
+
+DV 120444 Compensación Provincial Pérdida Incentivo Docente
+DV 118360 Antiguedad
+
+RT 660300 Obra Social - APROSS
+
+RT 674410 Descuento APROSS por afiliados Familiares Voluntar
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+RT 660330 Fondo de Enfermedades Catastróficas
+
+RT 660060 Aporte Personal Jubilatorio
+
+RT 673750 Cuota Afiliación UEPC
+
+Apellido y Nombre: BONINA, DAMIAN DARIO
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+23574,12
+14517,09
+18468,00
+17500,00
+27697,46
+47233,13
+22251,88
+24810,00
+14262,34
+5186,31
+28879,54
+28524,68
+Rem c/ Aporte 259315,31
+317535,19 101662,87 Rem s/ Aporte 58219.88
+Centro Pago: EE12402530 Cargo: 13436
+Fecha Antig.: 01/03/2005  Fec. Nac.: 01/01/1978 Obra Social: 500500 Cant. Hs. : 0,00
+Remuneraciones Descuentos
+325087,56
+50000,00
+27751,07
+110097,24
+9302,40
+50517,77
+59351,70
+98387,10
+239392,91
+95365,26
+300484,26
+66608,83
+71150,00
+48442,78
+33080,00
+133217,66
+33910,87
+Rem c/ Aporte 1211069,61
+1365737,27 386410,14
+
+Rem s/ Aporte 154667,66
+
+Emision: 2024-11-28
+
+Página: 25
+Reducción PAV 0,00 Liq. Pesos: 215872,32
+Salario Familiar: 18468,00  Liq. Letras: 0,00
+Fecha Alta: 01/03/2005 Rol: 1 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 979327,13
+Reducción PAV 0,00 Liq. Pesos: 979327,13
+Salario Familiar: 9302,40  Liq. Letras: 0,00

@@ -1,0 +1,22 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Pip
+pip-log.txt
+
+# Virtualenv
+env/
+venv/
+ENV/

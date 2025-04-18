@@ -1,0 +1,59 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 209622,33
+209622,33 38780,14 Rem s/ Aporte 0,00
+Id. Hr: 131919867 Apellido y Nombre: COCUCCI LEONARDO, LEONARDO Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 05/03/2014  Fec. Nac.: 14/04/1986 Obra Social: 500500 Cant. Hs. : 7,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 64204,79
+Dv 118100 Complemento No Rem 17500,00
+Dv 120170 Aporte Material Didáctico Rem. 12950,50
+Dv 112310 Item profesionalidad Docente 22700,22
+Dv 112620 Gastos Inherentes a la Labor Docente 14517,09
+Dv 117730 Estado Docente 27697,46
+Dv 118420 Promoción de la Calidad Educativa 13001,94
+Dv 110220 Adicional por Función Docente 55269,48
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 22251,88
+Dv 118360 Antiguedad 39360,94
+RT 660300 Obra Social - APROSS 13733,63
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4994,05
+RT 660330 Fondo de Enfermedades Catastróficas 16540,00
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 38108,01
+RT 660060 Aporte Personal Jubilatorio 27467,27
+Rem c/ Aporte 249702,42
+289454,30 100842,96 Rem s/ Aporte 39751,88
+
+Id, Hr: 132772190 Apellido y Nombre: PICCA, HERNAN RENE Centro Pago: EE12402530 Cargo: 13520
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/03/2007  Fec. Nac.: 10/10/1986 Obra Social: 500500 Cant. Hs. : 0,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 235725,43
+
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+
+Dv 1000003 Asignación Basica 123649,38
+
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+
+Dv 118100 Complemento No Rem 50000,00
+
+Dv 117730 Estado Docente 118703,40
+
+Dv 118420 Promoción de la Calidad Educativa 99403,42
+
+Dv 118360 Antiguedad 130043,85
+
+Emision: 2024-11-28
+Página: 28
+
+Reducción PAV 0,00 Liq. Pesos: 170842,19
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/06/2017 Rol: 8 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 188611,34
+Reducción PAV 0,00 Liq. Pesos: 188611,34
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/06/2007 Rol: 4 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 822387,40

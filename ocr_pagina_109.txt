@@ -1,0 +1,81 @@
+LIQUIDACION DE HABERES
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+89838,14
+
+Id. Hr: 235669104 Apellido y Nombre: GONGORA, GRISEL EVANGELINA
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 89838,14
+
+17149,00 Rem s/ Aporte 0,00
+
+Centro Pago: EE03106110 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N* Cuenta: 011731603 Fecha Antig.: 16/11/2015  Fec. Nac.: 09/10/1990 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 112310 Item profesionalidad Docente 13611,84
+Dv 118420 Promoción de la Calidad Educativa 8667,96
+Dv 118360 Antiguedad 22491,97
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2994,61
+RT 660300 Obra Social - APROSS 8235,16
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 9619,79
+RT 660060 Aporte Personal Jubilatorio 16470,33
+Rem c/ Aporte 149730,25
+149730,25 37319,89 Rem s/ Aporte 0,00
+
+Id. Hr: 235669104 Apellido y Nombre: GONGORA, GRISEL EVANGELINA
+
+Centro Pago: EE03106110 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N* Cuenta: 011731603 Fecha Antig.: 16/11/2015  Fec. Nac.: 09/10/1990 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 118420 Promoción de la Calidad Educativa 5200,78
+
+Dv 118360 Antiguedad 13495,18
+
+Dv 112310 Item profesionalidad Docente 8167,10
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 1796,76
+RT 660300 Obra Social - APROSS 4941,10
+RT 660060 Aporte Personal Jubilatorio 9882,20
+
+Emision: 2024-11-28
+
+Página: 109
+Reducción PAV 0,00 Liq. Pesos: 72689,14
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 10/04/2016 Rol: 7 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 112410,36
+Reducción PAV 0,00 Liq. Pesos: 112410,36
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 01/06/2022 Rol: 30 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 73218,08

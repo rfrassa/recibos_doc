@@ -1,0 +1,171 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+133602486 Apellido y Nombre: LUQUE, OSCAR EZEQUIEL
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+133602486 Apellido y Nombre: LUQUE, OSCAR EZEQUIEL
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+8916,16
+
+98077,75
+
+Fecha Antig.: 01/03/2010  Fec. Nac.: 22/06/1988 Obra Social: 500500
+
+Remuneraciones
+
+23686,92
+6221,61
+27516,34
+5550,21
+5943,74
+20242,77
+8916,16
+
+98077,75
+
+Fecha Antig.: 01/03/2010  Fec. Nac.: 22/06/1988 Obra Social: 500500
+
+Remuneraciones
+
+23686,92
+6221,61
+27516,34
+5550,21
+5943,74
+20242,77
+8916,16
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+3923,11
+5394,28
+10788,55
+Rem c/ Aporte 98077,75
+20105,94 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+Descuentos
+3923,11
+5394,28
+10788,55
+Rem c/ Aporte 98077,75
+20105,94 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+
+Descuentos
+
+3923,11
+5394,28
+10788,55
+
+Emision: 2024-11-28
+
+Página: 31
+Reducción PAV 0,00 Liq. Pesos: 77971,81
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2011 Rol: 27 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 77971,81
+Reducción PAV 0,00 Liq. Pesos: 77971,81
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/08/2023 Rol: 61 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 77971,81

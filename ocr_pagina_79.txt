@@ -1,0 +1,39 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 79
+Ministerio: OP045 - DIPE EX NACIÓN Anexo: EE
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Rem c/ Aporte 35439,11 Reducción PAV 0,00 Liq. Pesos: 27288,12
+35439,11 815099 Rem s/ Aporte 0.00 — Salario Familiar: 0,00 Liq. Letras: 0,00
+Id. Hr: 228840992 Apellido y Nombre: RE, LORENA VALERIA Centro Pago: EE03109350 Cargo: 13910 Fecha Alta: 01/03/2011 Rol: 8 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 011196406 Fecha Antig.: 01/03/2011  Fec. Nac.: 08/03/1982 Obra Social: 500500 Cant. Hs. : 2,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 50346,59
+Dv 110220 Adicional por Función Docente 15791,28
+Dv 112620 Gastos Inherentes a la Labor Docente 4147,74
+Dv 1000003 Asignación Basica 18344,23
+Dv 120170 Aporte Material Didáctico Rem. 3700,14
+Dv 112310 Item profesionalidad Docente 5944,11
+Dv 118420 Promoción de la Calidad Educativa 3962,50
+Dv 118360 Antiguedad 13495,18
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2615,41
+RT 660300 Obra Social - APROSS 3596,18
+RT 660060 Aporte Personal Jubilatorio 7192,37
+RT 673750 Cuota Afiliación UEPC 1634,63
+Rem c/ Aporte 65385,18 Reducción PAV 0,00 Liq. Pesos: 50346,59
+65385,18 15038,59 Rem s/ Aporte 0.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 228840992 Apellido y Nombre: RE, LORENA VALERIA Centro Pago: EE03109350 Cargo: 13910 Fecha Alta: 01/03/2011 Rol: 7 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011196406 Fecha Antig.: 01/03/2011  Fec. Nac.: 08/03/1982 Obra Social: 500500 Cant. Hs. : 2,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 50346,59
+Dv 110220 Adicional por Función Docente 15791,28
+Dv 112620 Gastos Inherentes a la Labor Docente 4147,74
+Dv 1000003 Asignación Basica 18344,23
+Dv 120170 Aporte Material Didáctico Rem. 3700,14
+Dv 112310 Item profesionalidad Docente 5944,11
+Dv 118420 Promoción de la Calidad Educativa 3962,50
+Dv 118360 Antiguedad 13495,18
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2615,41
+RT 660300 Obra Social - APROSS 3596,18
+RT 660060 Aporte Personal Jubilatorio 7192,37
+
+RT 673750 Cuota Afiliación UEPC 1634,63

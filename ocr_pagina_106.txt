@@ -1,0 +1,132 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa:
+
+Td. Hr:
+Sit. Revista: 01 Suc. Bco.: 408
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+Sit. Revista: 01 Suc. Bco.: 408
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+234685697 Apellido y Nombre: PRINO, LILIAN JANET
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+234685697 Apellido y Nombre: PRINO, LILIAN JANET
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+N" Cuenta: 011632106
+
+N" Cuenta: 011632106
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+Rem c/ Aporte 93957,95
+93957,95 21610,33 Rem s/ Aporte 0,00
+Centro Pago: EE01102560 Cargo: 13910
+Fecha Antig.: 16/03/2013 Fec. Nac.: 05/04/1990 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+23686,92
+6221,61
+27516,34
+5550,21
+8541,63
+5572,26
+16868,98
+3758,32
+5167,69
+10335,37
+2348,95
+Rem c/ Aporte 93957,95
+93957,95 21610,33 Rem s/ Aporte 0,00
+Centro Pago: EE01102560 Cargo: 13910
+Fecha Antig.: 16/03/2013 Fec. Nac.: 05/04/1990 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+23686,92
+6221,61
+27516,34
+5550,21
+8541,63
+5572,26
+16868,98
+3758,32
+5167,69
+10335,37
+2348,95
+
+Emision: 2024-11-28
+
+Página: 106
+Reducción PAV 0,00 Liq. Pesos: 72347,62
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 25/07/2017 Rol: 43 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 72347,62
+
+Reducción PAV 0,00 Liq. Pesos: 72347,62
+Salario Familiar: 0,00  Liq. Letras: 0,00
+Fecha Alta: 25/07/2017 Rol: 42 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 72347,62

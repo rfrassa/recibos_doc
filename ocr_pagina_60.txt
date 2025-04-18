@@ -1,0 +1,90 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+1565791,95
+
+Id. Hr: 224052711 Apellido y Nombre: DEGON, ANALIA GABRIELA
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+172237,11
+39144,80
+62631,68
+Rem c/ Aporte 1565791,95
+384942,15 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 03 Suc. Bco.: 408 N? Cuenta: 012003107 Fecha Antig.: 01/01/1997  Fec. Nac.: 31/05/1974 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 1000003 Asignación Basica 36688,45
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 112310 Item profesionalidad Docente 15383,81
+Dv 118420 Promoción de la Calidad Educativa 11392,18
+Dv 118360 Antiguedad 58479,11
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 6768,88
+RT 660300 Obra Social - APROSS 9307,20
+RT 660060 Aporte Personal Jubilatorio 18614,41
+RT 673750 Cuota Afiliación UEPC 4230,55
+Rem c/ Aporte 169221,88
+169221,88 38921,04 Rem s/ Aporte 0,00
+
+Id. Hr: 224087858 Apellido y Nombre: RAMELLO, SILVIA RAQUEL
+
+Sit. Revista: 01
+
+Remuneraciones
+Dv 1000003 Asignación Basica 123649,38
+Dv 118100 Complemento No Rem 50000,00
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+Dv 112310 Item profesionalidad Docente 71483,03
+Dv 112620 Gastos Inherentes a la Labor Docente 38905,43
+Dv 117730 Estado Docente 59351,70
+Dv 118420 Promoción de la Calidad Educativa 99403,42
+Dv 110220 Adicional por Función Docente 235725,43
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 47682,63
+Dv 118360 Antiguedad 130043,85
+
+RT 660300 Obra Social - APROSS
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/01/2005  Fec. Nac.: 21/09/1974 Obra Social: 500500
+
+Centro Pago: EE12402530 Cargo: 13520
+
+Cant. Hs. : 0,00
+
+Descuentos
+
+43247,23
+23589,40
+
+Emision: 2024-11-28
+
+Página: 60
+Reducción PAV 0,00 Liq. Pesos: 1180849,80
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 09/04/2024 Rol: 28 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 130300,84
+Reducción PAV 0,00 Liq. Pesos: 130300,84
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2005 Rol: 6 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 722010,74

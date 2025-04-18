@@ -1,0 +1,82 @@
+LIQUIDACION DE HABERES
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+149730,25
+
+Id. Hr: 231735797 Apellido y Nombre: RODRIGUEZ, DANIELA ELIZABETH
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 149730,25
+
+34437,96 Rem s/ Aporte 0,00
+
+Centro Pago: EE03106110 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 331 N" Cuenta: 012030002 Fecha Antig.: 03/10/2016  Fec. Nac.: 01/03/1986 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 112310 Item profesionalidad Docente 13611,84
+Dv 118420 Promoción de la Calidad Educativa 8667,96
+Dv 118360 Antiguedad 22491,97
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 5989,21
+RT 660300 Obra Social - APROSS 8235,16
+RT 660060 Aporte Personal Jubilatorio 16470,33
+RT 673750 Cuota Afiliación UEPC 3743,26
+Rem c/ Aporte 149730,25
+149730,25 34437,96 Rem s/ Aporte 0,00
+
+Id. Hr: 231819012 Apellido y Nombre: RIVALTA, CARMEN ALEJANDRA
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011377702 Fecha Antig.: 01/03/2010 Fec. Nac.: 16/08/1985 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 112310 Item profesionalidad Docente 8916,16
+
+Dv 118420 Promoción de la Calidad Educativa 5943,74
+
+Dv 118360 Antiguedad 20242,77
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 3923,11
+RT 660300 Obra Social - APROSS 5394,28
+RT 660060 Aporte Personal Jubilatorio 10788,55
+RT 673750 Cuota Afiliación UEPC 2451,94
+
+Emision: 2024-11-28
+
+Página: 94
+Reducción PAV 0,00 Liq. Pesos: 115292,29
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2018 Rol: 6 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 115292,29
+Reducción PAV 0,00 Liq. Pesos: 115292,29
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2011 Rol: 6 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 75519,87

@@ -1,0 +1,89 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 106317,37
+106317,37 21795,06 Rem s/ Aporte 0,00
+Id. Hr: 227154813 Apellido y Nombre: ALANIZ, CECILIA JACINTA Centro Pago: EE03104080 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N” Cuenta: 010020801 Fecha Antig.: 01/08/2005  Fec. Nac.: 26/02/1979 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 118420 Promoción de la Calidad Educativa 6686,71
+Dv 118360 Antiguedad 26990,36
+Dv 112310 Item profesionalidad Docente 9665,22
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4252,69
+RT 660300 Obra Social - APROSS 5847,46
+RT 660060 Aporte Personal Jubilatorio 11694,91
+Rem c/ Aporte 106317,37
+106317,37 21795,06 Rem s/ Aporte 0,00
+Id. Hr: 228083567 Apellido y Nombre: CIVALLERO, SONIA EDIT Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 31582,56
+112620 Gastos Inherentes a la Labor Docente 8295,48
+1000003 Asignación Basica 36688,45
+120170 Aporte Material Didáctico Rem. 7400,29
+112310 Item profesionalidad Docente 12886,95
+118420 Promoción de la Calidad Educativa 8915,62
+118360 Antiguedad 35987,14
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+Fecha Antig.: 01/04/2005  Fec. Nac.: 01/01/1978 Obra Social: 500500
+
+Cant. Hs. : 4,00
+
+Descuentos
+
+5670,26
+7796,61
+15593,21
+3543,91
+
+Emision: 2024-11-28
+
+Página: 75
+Reducción PAV 0,00 Liq. Pesos: 84522,31
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/04/2015 Rol: 25 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 84522,31
+Reducción PAV 0,00 Liq. Pesos: 84522,31
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/08/2007 Rol: 4 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 109152,50

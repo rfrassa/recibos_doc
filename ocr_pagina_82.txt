@@ -1,0 +1,131 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+65385,18
+
+229514211 Apellido y Nombre: PERRONE, CECILIA SOLEDAD
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 55269,48
+120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+1000003 Asignación Basica 64204,79
+120170 Aporte Material Didáctico Rem. 12950,50
+118100 Complemento No Rem 50000,00
+117730 Estado Docente 102876,28
+118420 Promoción de la Calidad Educativa 13868,74
+118360 Antiguedad 47233,13
+112620 Gastos Inherentes a la Labor Docente 14517,09
+112310 Item profesionalidad Docente 31092,00
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+487377,27
+
+229514211 Apellido y Nombre: PERRONE, CECILIA SOLEDAD
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 31582,56
+112620 Gastos Inherentes a la Labor Docente 8295,48
+1000003 Asignación Basica 36688,45
+120170 Aporte Material Didáctico Rem. 7400,29
+118420 Promoción de la Calidad Educativa 7924,99
+118360 Antiguedad 26990,36
+112310 Item profesionalidad Docente 11888,21
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+Fecha Antig.: 01/03/2010 Fec. Nac.: 07/10/1982 Obra Social: 500500
+
+Fecha Antig.: 01/03/2010 Fec. Nac.: 07/10/1982 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte 65385,18
+
+15038,59 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 7,00
+Descuentos
+13680,48
+18810,66
+37621,32
+Rem c/ Aporte 342012,01
+70112,46 Rem s/ Aporte 145365,26
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 4,00
+
+Descuentos
+
+5230,81
+7192,37
+14384,74
+
+Emision: 2024-11-28
+
+Página: 82
+Reducción PAV 0,00 Liq. Pesos: 50346,59
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 27/02/2013 Rol: 14 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 417264,81
+Reducción PAV 0,00 Liq. Pesos: 417264,81
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2017 Rol: 16 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 103962,42

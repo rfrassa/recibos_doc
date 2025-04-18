@@ -1,0 +1,59 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 197794,66
+197794,66 40547,91 Rem s/ Aporte 0,00
+Id. Hr: 118573049 Apellido y Nombre: ROSALES, ARIEL RICARDO Centro Pago: EE12402530 Cargo: 13437
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/10/1989 Fec. Nac.: 06/05/1967 Obra Social: 500500 Cant. Hs. : 0,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 366228,37
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+Dv 1000003 Asignación Basica 330892,70
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+Dv 112310 Item profesionalidad Docente 157231,79
+Dv 112620 Gastos Inherentes a la Labor Docente 62042,49
+Dv 118100 Complemento No Rem 50000,00
+Dv 117730 Estado Docente 59351,70
+Dv 118420 Promoción de la Calidad Educativa 136648,75
+Dv 118360 Antiguedad 589402,79
+RT 660300 Obra Social - APROSS 95125,23
+RT 674410 Descuento APROSS por afiliados Familiares Voluntar 188400,00
+RT 660330 Fondo de Enfermedades Catastróficas 24810,00
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 69181,99
+RT 660060 Aporte Personal Jubilatorio 190250,46
+Rem c/ Aporte 1729549,66
+1874914,92 567767,68 Rem s/ Aporte 145365,26
+
+Id. Hr: 120592296 Apellido y Nombre: ACOSTA, MARCELO EMILIO Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/01/1991  Fec. Nac.: 10/07/1969 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 118100 Complemento No Rem 50000,00
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 112310 Item profesionalidad Docente 22178,86
+
+Dv 118420 Promoción de la Calidad Educativa 9287,10
+
+Dv 118360 Antiguedad 50606,93
+
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 79471,00
+
+Emision: 2024-11-28
+Página: 9
+
+Reducción PAV 0,00 Liq. Pesos: 157246,75
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2005 Rol: 4 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 1307147,24
+Reducción PAV 0,00 Lig. Pesos: 1307147,24
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/05/2002 Rol: 2 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 315155,14

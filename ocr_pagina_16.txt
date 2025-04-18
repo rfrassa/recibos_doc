@@ -1,0 +1,166 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+673750 Cuota Afiliación UEPC
+
+238460,98
+
+122155311 Apellido y Nombre: CROTTO, EDGAR GUSTAVO
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+1000003 Asignación Basica 325087,56
+110220 Adicional por Función Docente 239392,91
+120170 Aporte Material Didáctico Rem. 27751,07
+112310 Item profesionalidad Docente 99859,42
+118420 Promoción de la Calidad Educativa 92921,15
+118360 Antiguedad 262923,73
+112620 Gastos Inherentes a la Labor Docente 50517,77
+660300 Obra Social - APROSS
+660330 Fondo de Enfermedades Catastróficas
+660060 Aporte Personal Jubilatorio
+673750 Cuota Afiliación UEPC
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+1098453,61
+
+122155311 Apellido y Nombre: CROTTO, EDGAR GUSTAVO
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 31582,56
+112620 Gastos Inherentes a la Labor Docente 8295,48
+1000003 Asignación Basica 36688,45
+120170 Aporte Material Didáctico Rem. 7400,29
+112310 Item profesionalidad Docente 12387,58
+118360 Antiguedad 31488,75
+118420 Promoción de la Calidad Educativa 8420,30
+
+660300 Obra Social - APROSS
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+674410 Descuento APROSS por afiliados Familiares Voluntar
+660060 Aporte Personal Jubilatorio
+
+Fecha Antig.: 01/03/2008  Fec. Nac.: 13/09/1971
+
+Fecha Antig.: 01/03/2008  Fec. Nac.: 13/09/1971
+
+13115,35
+26230,71
+5961,52
+
+54846,02
+
+Centro Pago: EE12402530
+
+Descuentos
+
+60414,95
+16540,00
+120829,90
+27461,34
+43938,14
+
+269184,33
+
+Centro Pago: EE12402530
+
+Descuentos
+
+7494,49
+5450,54
+4435,29
+
+14988,98
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Obra Social: 500500
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Obra Social: 500500
+
+238460,98
+0,00
+
+Cargo: 13436
+Cant. Hs. : 0,00
+
+1098453,61
+0,00
+
+Cargo: 13910
+Cant. Hs. : 4,00
+
+Emision: 2024-11-28
+
+Página: 16
+Reducción PAV 0,00 Liq. Pesos: 183614,96
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 15/02/2010 Rol: 33 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 829269,28
+
+Reducción PAV 0,00 Liq. Pesos: 829269,28
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 26/11/2009 Rol: 29 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 100487,52

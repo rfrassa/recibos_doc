@@ -1,0 +1,41 @@
+Emision: 2024-11-28
+
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 83
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Rem c/ Aporte 130770,34 Reducción PAV 0,00 Liq. Pesos: 103962,42
+130770,34 26807, Rem s/ Aporte o.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 229514211 Apellido y Nombre: PERRONE, CECILIA SOLEDAD Centro Pago: EE12402530 Cargo: 13436 Fecha Alta: 02/04/2018 Rol: 18 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2010  Fec. Nac.: 07/10/1982 Obra Social: 500500 Cant. Hs. : 0,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 827373,96
+Dv 110220 Adicional por Función Docente 239392,91
+Dv 112620 Gastos Inherentes a la Labor Docente 50517,77
+Dv 1000003 Asignación Basica 325087,56
+Dv 120170 Aporte Material Didáctico Rem. 27751,07
+Dv 112310 Item profesionalidad Docente 95556,77
+Dv 118420 Promoción de la Calidad Educativa 87455,20
+Dv 118360 Antiguedad 225363,20
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 42044,98
+RT 660300 Obra Social - APROSS 57811,85
+RT 660330 Fondo de Enfermedades Catastróficas 8270,00
+RT 660060 Aporte Personal Jubilatorio 115623,69
+Rem c/ Aporte 1051124,48 Reducción PAV 0,00 Liq. Pesos: 827373,96
+1051124,48 223750,52 Rem s/ Aporte 0.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 229922241 Apellido y Nombre: COMBA LUQUE, DAMIANA Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 21/10/2024 Rol: 28 Dias Trab: 4
+Sit. Revista: 03 Suc. Bco.: 408 N" Cuenta: 011417909 Fecha Antig.: 01/03/2011  Fec. Nac.: 14/12/1984 Obra Social: 500500 Cant. Hs. : 0,67 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 64753,56
+Dv 110220 Adicional por Función Docente 5263,76
+Dv 112620 Gastos Inherentes a la Labor Docente 1382,58
+Dv 118360 Antiguedad 4498,39
+Dv 1000003 Asignación Basica 6114,74
+Dv 120170 Aporte Material Didáctico Rem. 1233,38
+Dv 112310 Item profesionalidad Docente 1981,37
+Dv 138230 S.A.C. Proporcional 2do. Semestre 6356,89
+Dv 118420 Promoción de la Calidad Educativa 1320,83
+Dv 113260 Total Retroactivos con Aportes 53299,08
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 3258,04
+RT 660300 Obra Social - APROSS 4130,18
+
+RT 660340 Obra Social SAC- APROSS 349,63

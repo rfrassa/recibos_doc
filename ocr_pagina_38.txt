@@ -1,0 +1,60 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 139430,73
+139430,73 30674,76 Rem s/ Aporte 0,00
+Id. Hr: 135669344 Apellido y Nombre: ALBERT, NICOLAS ALEJANDRO Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 03/10/2022  Fec. Nac.: 28/09/1991 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 45860,57
+Dv 118100 Complemento No Rem 50000,00
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 112310 Item profesionalidad Docente 22963,15
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 117730 Estado Docente 102876,28
+Dv 118420 Promoción de la Calidad Educativa 7739,25
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 82649,84
+Dv 118360 Antiguedad 14057,48
+RT 660300 Obra Social - APROSS 13892,71
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 7577,84
+RT 660330 Fondo de Enfermedades Catastróficas 8270,00
+RT 660060 Aporte Personal Jubilatorio 27785,41
+RT 673750 Cuota Afiliación UEPC 9631,11
+Rem c/ Aporte 252594,64
+385244,48 67157,07 Rem s/ Aporte 132649,84
+
+Id. Hr: 135669344 Apellido y Nombre: ALBERT, NICOLAS ALEJANDRO Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 03/10/2022  Fec. Nac.: 28/09/1991 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 39478,20
+
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+
+Dv 1000003 Asignación Basica 45860,57
+
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+
+Dv 112310 Item profesionalidad Docente 12675,52
+
+Dv 118420 Promoción de la Calidad Educativa 7739,25
+
+Dv 118360 Antiguedad 14057,48
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4182,92
+
+Emision: 2024-11-28
+Página: 38
+
+Reducción PAV 0,00 Liq. Pesos: 108755,97
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2023 Rol: 20 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 318087,41
+Reducción PAV 0,00 Liq. Pesos: 318087,41
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2023 Rol: 22 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 108755,97

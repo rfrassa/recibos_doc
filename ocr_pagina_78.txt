@@ -1,0 +1,137 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa:
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+228083567 Apellido y Nombre: CIVALLERO, SONIA EDIT
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+228083567 Apellido y Nombre: CIVALLERO, SONIA EDIT
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+
+Remuneraciones
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+Rem c/ Aporte 177195,63
+177195,63 40755,00 Rem s/ Aporte 0,00
+Centro Pago: EE12402530 Cargo: 13910
+Fecha Antig.: 01/04/2005  Fec. Nac.: 01/01/1978 Obra Social: 500500 Cant. Hs. : 5,00
+Descuentos
+39478,20
+10369,35
+45860,57
+9250,36
+16108,69
+11144,52
+44983,94
+7087,83
+9745,76
+19491,52
+4429,89
+Rem c/ Aporte 177195,63
+177195,63 40755,00 Rem s/ Aporte 0,00
+Centro Pago: EE12402530 Cargo: 13910
+Fecha Antig.: 01/04/2005  Fec. Nac.: 01/01/1978 Obra Social: 500500 Cant. Hs. : 1,00
+Descuentos
+7895,64
+2073,87
+9172,11
+1850,07
+3221,74
+2228,90
+8996,78
+1417,56
+1949,15
+3898,30
+885,98
+
+Emision: 2024-11-28
+
+Página: 78
+Reducción PAV 0,00 Liq. Pesos: 136440,63
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 02/03/2011 Rol: 19 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 136440,63
+Reducción PAV 0,00 Liq. Pesos: 136440,63
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2010 Rol: 20 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 27288,12

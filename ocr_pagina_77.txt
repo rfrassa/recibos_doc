@@ -1,0 +1,187 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+228083567 Apellido y Nombre: CIVALLERO, SONIA EDIT
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+228083567 Apellido y Nombre: CIVALLERO, SONIA EDIT
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+177195,63
+
+Fecha Antig.: 01/04/2005  Fec. Nac.: 01/01/1978 Obra Social: 500500
+
+Remuneraciones
+
+31582,56
+8295,48
+36688,45
+7400,29
+12886,95
+8915,62
+35987,14
+
+141756,49
+
+Fecha Antig.: 01/04/2005  Fec. Nac.: 01/01/1978 Obra Social: 500500
+
+Remuneraciones
+
+39478,20
+10369,35
+45860,57
+
+9250,36
+16108,69
+11144,52
+44983,94
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+7087,83
+9745,76
+19491,52
+4429,89
+
+Rem c/ Aporte
+
+40755,00 Rem s/ Aporte
+
+Centro Pago: EE12402530
+
+Descuentos
+
+5670,26
+7796,61
+15593,21
+3543,91
+
+Rem c/ Aporte
+
+32603,99 Rem s/ Aporte
+
+Centro Pago: EE12402530
+
+Descuentos
+
+7087,83
+9745,76
+19491,52
+4429,89
+
+177195,63
+0,00
+
+Cargo: 13910
+
+Cant. Hs. : 4,00
+
+141756,49
+0,00
+
+Cargo: 13910
+
+Cant. Hs. : 5,00
+
+Emision: 2024-11-28
+
+Página: T
+Reducción PAV 0,00 Liq. Pesos: 136440,63
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2010 Rol: 17 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 109152,50
+
+Reducción PAV 0,00 Liq. Pesos: 109152,50
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 02/03/2011 Rol: 18 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 136440,63

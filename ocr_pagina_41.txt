@@ -1,0 +1,144 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+DV 112310 Item profesionalidad Docente
+
+DV 118420 Promoción de la Calidad Educativa
+
+DV 118360 Antiguedad
+
+DV 120444 Compensación Provincial Pérdida Incentivo Docente
+DV 112620 Gastos Inherentes a la Labor Docente
+
+DV 117730 Estado Docente
+
+RT 660300 Obra Social - APROSS
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+RT 660330 Fondo de Enfermedades Catastróficas
+
+RT 660060 Aporte Personal Jubilatorio
+
+Id. Hr: 140026143
+
+Sit. Revista: 03 Suc. Bco.: 408 N" Cuenta: 001017906
+
+DV 1000003 Asignación Basica
+
+DV 130300 Complemento Inicial
+
+DV 113260 Total Retroactivos con Aportes
+
+DV 120170 Aporte Material Didáctico Rem.
+
+DV 112620 Gastos Inherentes a la Labor Docente
+DV 138230 S.A.C. Proporcional 2do. Semestre
+DV 118420 Promoción de la Calidad Educativa
+DV 110220 Adicional por Función Docente
+
+DV 112310 Item profesionalidad Docente
+
+RT 660340 Obra Social SAC- APROSS
+
+RT 660300 Obra Social - APROSS
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660080 Aporte Personal Jubilatorio s/SAC
+RT 660060 Aporte Personal Jubilatorio
+
+RT 673750 Cuota Afiliación UEPC
+
+Id. Hr: 140026143
+
+Sit. Revista: 03 Suc. Bco.: 408 N" Cuenta: 001017906
+
+DV 1000003 Asignación Basica
+
+Apellido y Nombre: GUERRERO, MATIAS GABRIEL
+
+Apellido y Nombre: GUERRERO, MATIAS GABRIEL
+
+78962,57
+77313,77
+102141,40
+95365,26
+62042,49
+59351,70
+
+1013953,50
+
+Fecha Antig.: 15/02/2024  Fec. Nac.: 15/02/1995 Obra Social: 500500 Cant.
+
+Remuneraciones
+
+6114,74
+2080,71
+45463,09
+1233,38
+1382,58
+5422,31
+825,52
+5263,76
+1690,07
+
+69476,16
+
+Remuneraciones
+
+6114,74
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+47772,35
+26057,65
+8270,00
+95544,71
+Rem c/ Aporte 868588,24
+17764471 Reoms/ Aporte 145365,26
+
+Centro Pago: EE11204020 Cargo: 13910
+
+0,67
+
+Descuentos
+
+298,23
+3522,96
+2779,05
+
+596,45
+7045,92
+1736,90
+
+Rem c/ Aporte 69476,16
+
+15979,51 Rem s/ Aporte 0,00
+
+Centro Pago: EE11204020 Cargo: 13910
+
+Fecha Antig.: 15/02/2024  Fec. Nac.: 15/02/1995 Obra Social: 500500 Cant. Hs. : 0,67
+
+Descuentos
+
+Emision: 2024-11-28
+
+Página: 41
+Reducción PAV 0,00 Liq. Pesos: 836308,79
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 21/10/2024 Rol: 8 Dias Trab: 4
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 53496,65
+
+Reducción PAV 0,00 Liq. Pesos: 53496,65
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 21/10/2024 Rol: 5 Dias Trab: 4
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 53496,65

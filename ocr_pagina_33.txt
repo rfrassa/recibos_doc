@@ -1,0 +1,164 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 03
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+134685724 Apellido y Nombre: MANSILLA, LUIS GABRIEL
+
+Suc. Bco.: 408 N" Cuenta: 011679703
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+134838444 Apellido y Nombre: LUDEMANN, GASTON
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+156596,59
+
+Fecha Antig.: 25/08/2014  Fec. Nac.: 11/05/1990 Obra Social: 500500
+
+Remuneraciones
+39478,20
+10369,35
+45860,57
+
+9250,36
+9287,10
+28114,96
+14236,05
+
+156596,59
+
+Fecha Antig.: 02/04/2022  Fec. Nac.: 13/10/1989 Obra Social: 500500
+
+Remuneraciones
+23686,92
+6221,61
+27516,34
+5550,21
+
+4643,55
+
+8434,49
+
+7605,31
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+8612,81
+17225,62
+
+Rem c/ Aporte 156596,59
+32102,29 Rem s/ Aporte 0,00
+
+Centro Pago: EE03106110 Cargo: 13910
+
+Cant. Hs. : 5,00
+Descuentos
+6263,86
+8612,81
+17225,62
+Rem c/ Aporte 156596,59
+32102,29 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+
+Descuentos
+
+1673,17
+4601,21
+9202,43
+
+Emision: 2024-11-28
+Página: 33
+Reducción PAV 0,00 Liq. Pesos: 124494,30
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/08/2016 Rol: 25 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 124494,30
+
+Reducción PAV 0,00 Liq. Pesos: 124494,30
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 04/03/2024 Rol: 16 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 68181,62

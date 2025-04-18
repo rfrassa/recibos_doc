@@ -1,0 +1,39 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 19
+Ministerio: OP045 - DIPE EX NACIÓN Anexo: EE
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+RT 660300 Obra Social - APROSS 7192,37
+RT 660060 Aporte Personal Jubilatorio 14384,74
+Rem c/ Aporte 130770,34 Reducción PAV 0,00 Liq. Pesos: 103962,42
+130770,34 26807, Rem s/ Aporte o.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 123097064 Apellido y Nombre: FRASSA, DAVID RAFAEL Centro Pago: EE03104080 Cargo: 13910 Fecha Alta: 02/03/2022 Rol: 36 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011968801 Fecha Antig.: 01/03/2012  Fec. Nac.: 11/02/1973 Obra Social: 500500 Cant. Hs. : 5,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 129953,04
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 118420 Promoción de la Calidad Educativa 9906,24
+Dv 118360 Antiguedad 33737,95
+Dv 112310 Item profesionalidad Docente 14860,27
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 6538,52
+RT 660300 Obra Social - APROSS 8990,46
+RT 660060 Aporte Personal Jubilatorio 17980,92
+Rem c/ Aporte 163462,94 Reducción PAV 0,00 Liq. Pesos: 129953,04
+163462,94 3350990 Rm s/ Aporte o.00 — Salario Familiar: 0,00  Liq. Letras: 0,00
+Id. Hr: 123097064 Apellido y Nombre: FRASSA, DAVID RAFAEL Centro Pago: EE03104080 Cargo: 13910 Fecha Alta: 01/03/2012 Rol: 8 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011968801 Fecha Antig.: 01/03/2012  Fec. Nac.: 11/02/1973 Obra Social: 500500 Cant. Hs. : 4,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 103962,42
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 1000003 Asignación Basica 36688,45
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 118420 Promoción de la Calidad Educativa 7924,99
+Dv 118360 Antiguedad 26990,36
+Dv 112310 Item profesionalidad Docente 11888,21
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 5230,81
+RT 660300 Obra Social - APROSS 7192,37
+
+RT 660060 Aporte Personal Jubilatorio 14384,74

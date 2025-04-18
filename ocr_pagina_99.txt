@@ -1,0 +1,40 @@
+Emision: 2024-11-28
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25 Página: 99
+Ministerio: OP045 - DIPE EX NACIÓN Anexo: EE
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Rem c/ Aporte 163462,94 Reducción PAV 0,00 Liq. Pesos: 129953,04
+163462,94 3350990 Rm s/ Aporte 0.00 — Salario Familiar: 0,00 Liq. Letras: 0,00
+Id. Hr: 231819126 Apellido y Nombre:  AUDISIO, MARIA VICTORIA Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 01/03/2011 Rol: 10 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2010  Fec. Nac.: 26/01/1986 Obra Social: 500500 Cant. Hs. : 5,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 297117,96
+Dv 1000003 Asignación Basica 45860,57
+Dv 118100 Complemento No Rem 50000,00
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 112310 Item profesionalidad Docente 26730,61
+Dv 110220 Adicional por Función Docente 39478,20
+DV 133020 Asignación Familiar por Hijos 13953,60
+Dv 118420 Promoción de la Calidad Educativa 9906,24
+Dv 118360 Antiguedad 33737,95
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 117730 Estado Docente 118703,40
+RT 660300 Obra Social - APROSS 16172,02
+RT 674410 Descuento APROSS por afiliados Familiares Voluntar 71150,00
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 11761,47
+RT 660330 Fondo de Enfermedades Catastróficas 24810,00
+RT 660060 Aporte Personal Jubilatorio 32344,03
+Rem c/ Aporte 294036,68 Reducción PAV 0,00 Liq. Pesos: 297117,96
+453355,48 156237,52. Rom s/ Aporte 1so318,50 — Salario Familiar: 13953,60 Lig. Letras: 0,00
+Id. Hr: 231819126 Apellido y Nombre:  AUDISIO, MARIA VICTORIA Centro Pago: EE12402530 Cargo: 13910 Fecha Alta: 01/07/2014 Rol: 15 Dias Trab: 30
+Sit. Revista: 01 Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2010  Fec. Nac.: 26/01/1986 Obra Social: 500500 Cant. Hs. : 5,00 Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Remuneraciones Descuentos Liquido 129953,04
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 1000003 Asignación Basica 45860,57
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 118420 Promoción de la Calidad Educativa 9906,24
+Dv 118360 Antiguedad 33737,95
+
+Dv 112310 Item profesionalidad Docente 14860,27

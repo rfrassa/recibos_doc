@@ -1,0 +1,69 @@
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+LIQUIDACION DE HABERES
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+RT 660080 Aporte Personal Jubilatorio s/SAC 699,26
+RT 660060 Aporte Personal Jubilatorio 8260,35
+Rem c/ Aporte 81451,02
+81451,02 16697,46 Rem s/ Aporte 0,00
+
+Id. Hr: 229922241 Apellido y Nombre: COMBA LUQUE, DAMIANA Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011417909 Fecha Antig.: 01/03/2011  Fec. Nac.: 14/12/1984 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 60963,12
+Dv 113260 Total Retroactivos con Aportes 14191,73
+Dv 118360 Antiguedad 26990,36
+Dv 1000003 Asignación Basica 36688,45
+Dv 118100 Complemento No Rem 50000,00
+Dv 117730 Estado Docente 80454,53
+Dv 118420 Promoción de la Calidad Educativa 7924,99
+Dv 113300 Total Retroactivos sin Aportes 3455,00
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 112310 Item profesionalidad Docente 19933,67
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 9338,48
+RT 660300 Obra Social - APROSS 12840,41
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 31262,16
+RT 660060 Aporte Personal Jubilatorio 25680,83
+Rem c/ Aporte 233462,06
+347880,18 79121,88 Rem s/ Aporte 114418,12
+
+Id. Hr: 229922241 Apellido y Nombre: COMBA LUQUE, DAMIANA Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 03 Suc. Bco.: 408 N" Cuenta: 011417909 Fecha Antig.: 01/03/2011  Fec. Nac.: 14/12/1984 Obra Social: 500500 Cant. Hs. : 0,67
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 5263,76
+
+Dv 112620 Gastos Inherentes a la Labor Docente 1382,58
+
+Dv 118360 Antiguedad 4498,39
+
+Dv 1000003 Asignación Basica 6114,74
+
+Dv 120170 Aporte Material Didáctico Rem. 1233,38
+
+Dv 112310 Item profesionalidad Docente 1981,37
+
+Dv 138230 S.A.C. Proporcional 2do. Semestre 6356,89
+
+Emision: 2024-11-28
+Página: 84
+
+Reducción PAV 0,00 Liq. Pesos: 64753,56
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2011 Rol: 2 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 268758,30
+Reducción PAV 0,00 Liq. Pesos: 268758,30
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 21/10/2024 Rol: 29 Dias Trab: 4
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 64753,56

@@ -1,0 +1,55 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 149730,25
+149730,25 34437,96 Rem s/ Aporte 0,00
+Id. Hr: 231735797 Apellido y Nombre: RODRIGUEZ, DANIELA ELIZABETH Centro Pago: EE03106110 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 331 N" Cuenta: 012030002 Fecha Antig.: 03/10/2016  Fec. Nac.: 01/03/1986 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 1000003 Asignación Basica 36688,45
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 112310 Item profesionalidad Docente 10889,47
+Dv 118420 Promoción de la Calidad Educativa 6934,37
+Dv 118360 Antiguedad 17993,57
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4791,37
+RT 660300 Obra Social - APROSS 6588,13
+RT 660060 Aporte Personal Jubilatorio 13176,26
+RT 673750 Cuota Afiliación UEPC 2994,60
+Rem c/ Aporte 119784,19
+119784,19 27550,36 Rem s/ Aporte 0,00
+Id. Hr: 231735797 Apellido y Nombre: RODRIGUEZ, DANIELA ELIZABETH Centro Pago: EE03106110 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 331 N" Cuenta: 012030002 Fecha Antig.: 03/10/2016  Fec. Nac.: 01/03/1986 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 1000003 Asignación Basica 36688,45
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 112310 Item profesionalidad Docente 10889,47
+Dv 118420 Promoción de la Calidad Educativa 6934,37
+Dv 118360 Antiguedad 17993,57
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4791,37
+RT 660300 Obra Social - APROSS 6588,13
+RT 660060 Aporte Personal Jubilatorio 13176,26
+RT 673750 Cuota Afiliación UEPC 2994,60
+
+Emision: 2024-11-28
+
+Página: 92
+Reducción PAV 0,00 Liq. Pesos: 115292,29
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/03/2020 Rol: 19 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 92233,83
+Reducción PAV 0,00 Liq. Pesos: 92233,83
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 02/03/2020 Rol: 18 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 92233,83

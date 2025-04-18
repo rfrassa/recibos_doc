@@ -1,0 +1,21 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+139430,73
+
+Monto Total Devengos por Empresa:  62088718,61
+
+Monto Total Retenido por Empresa: 13992692,19
+
+ision: 2024-11-28
+Fecha de Pago: 2024-11-25 Emision:
+
+Página: 115
+Anexo: EE
+Rem c/ Aporte 139430,73 Reducción PAV 0,00 Liq. Pesos: 112241,74
+27188,99 Rem s/ Aporte 0.00 — Salario Familiar: 0,00 Liq. Letras: 0,00
+Cantidad Total de Empleados Liquidados: 228
+Monto Total Liquido por Empresa: 48096026,42
+

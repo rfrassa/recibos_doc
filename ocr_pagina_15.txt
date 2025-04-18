@@ -1,0 +1,110 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+RT 660330 Fondo de Enfermedades Catastróficas
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS
+RT 660060 Aporte Personal Jubilatorio
+
+426545,15
+
+Id. Hr: 122155311 Apellido y Nombre: CROTTO, EDGAR GUSTAVO
+
+Sit. Revista: 01
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 15791,28
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+Dv 1000003 Asignación Basica 18344,23
+Dv 120170 Aporte Material Didáctico Rem. 3700,14
+Dv 112310 Item profesionalidad Docente 17272,78
+Dv 112620 Gastos Inherentes a la Labor Docente 4147,74
+Dv 118100 Complemento No Rem 50000,00
+Dv 117730 Estado Docente 110789,84
+
+Dv 118420 Promoción de la Calidad Educativa 4210,15
+
+Dv 118360 Antiguedad 15744,38
+RT 660300 Obra Social - APROSS
+RT 674410 Descuento APROSS por afiliados Familiares Voluntar
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+335365,80
+
+Id. Hr: 122155311 Apellido y Nombre: CROTTO, EDGAR GUSTAVO
+
+Sit. Revista: 01
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 55269,48
+Dv 112620 Gastos Inherentes a la Labor Docente 14517,09
+Dv 1000003 Asignación Basica 64204,79
+Dv 120170 Aporte Material Didáctico Rem. 12950,50
+Dv 112310 Item profesionalidad Docente 21678,27
+
+Dv 118420 Promoción de la Calidad Educativa 14735,53
+Dv 118360 Antiguedad 55105,32
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2008  Fec. Nac.: 13/09/1971 Obra Social: 500500
+
+Suc. Bco.: 0.00000000N” Cuenta: 0.00000000 Fecha Antig.: 01/03/2008  Fec. Nac.: 13/09/1971 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+24810,00
+10055,25
+38799,23
+Rem c/ Aporte 352720,23
+158718,49 Rem s/ Aporte 73824,92
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 2,00
+
+Descuentos
+
+10450,03
+54164,71
+7600,02
+20900,06
+8384,15
+
+190000,54
+145365,26
+
+Rem c/ Aporte
+
+101498,97 Rem s/ Aporte
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 7,00
+
+Descuentos
+
+9538,44
+
+Emision: 2024-11-28
+
+Página: 15
+Reducción PAV 0,00 Liq. Pesos: 267826,66
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 26/11/2009 Rol: 31 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 233866,83
+Reducción PAV 0,00 Liq. Pesos: 233866,83
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/04/2016 Rol: 37 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 183614,96

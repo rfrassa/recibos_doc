@@ -1,0 +1,175 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa:
+
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+125490289 Apellido y Nombre: CAON, SEBASTIAN VIRGIN
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+671000 Ajuste Dif. Aporte Mínimo APROSS
+660060 Aporte Personal Jubilatorio
+
+125490289 Apellido y Nombre: CAON, SEBASTIAN VIRGIN
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+
+120444 Compensación Provincial Pérdida Incentivo Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+112310 Item profesionalidad Docente
+
+112620 Gastos Inherentes a la Labor Docente
+
+6221,61
+27516,34
+5550,21
+6315,23
+23616,57
+9290,69
+
+102197,57
+
+Fecha Antig.: 25/02/2009 Fec. Nac.: 18/12/1976 Obra Social: 500500
+
+Remuneraciones
+
+23686,92
+6221,61
+27516,34
+5550,21
+9290,69
+6315,23
+23616,57
+
+102197,57
+
+Fecha Antig.: 25/02/2009 Fec. Nac.: 18/12/1976 Obra Social: 500500
+
+Remuneraciones
+
+23686,92
+38146,08
+27516,34
+5550,21
+14038,82
+6221,61
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+2043,95
+5620,87
+11241,73
+Rem c/ Aporte 102197,57
+18906,55 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+Descuentos
+
+2043,95
+5620,87
+17884,97
+11241,73
+
+Rem c/ Aporte 102197,57
+
+36791,52 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+Cant. Hs. : 3,00
+
+Descuentos
+
+Emision: 2024-11-28
+
+Página: 22
+Reducción PAV 0,00 Liq. Pesos: 83291,02
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 03/08/2012 Rol: 17 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 65406,05
+Reducción PAV 0,00 Liq. Pesos: 65406,05
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/10/2005 Rol: 2 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 98044,13

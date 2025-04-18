@@ -1,0 +1,170 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+
+118420 Promoción de la Calidad Educativa
+
+113260 Total Retroactivos con Aportes
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660340 Obra Social SAC- APROSS
+
+660080 Aporte Personal Jubilatorio s/SAC
+
+660060 Aporte Personal Jubilatorio
+
+230149618
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+110220 Adicional por Función Docente
+
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+112310 Item profesionalidad Docente
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+230149618
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+1000003 Asignación Basica
+
+133020 Asignación Familiar por Hijos
+
+120170 Aporte Material Didáctico Rem.
+
+118100 Complemento No Rem
+
+110220 Adicional por Función Docente
+
+112310 Item profesionalidad Docente
+
+118420 Promoción de la Calidad Educativa
+
+118360 Antiguedad
+
+120444 Compensación Provincial Pérdida Incentivo Docente
+
+Apellido y Nombre: ROBERT, ANABEL CECILIA
+
+Remuneraciones
+
+Apellido y Nombre: ROBERT, ANABEL CECILIA
+Fecha Antig.: 01/07/2009 Fec. Nac.: 16/05/1983 Obra Social: 500500
+
+Remuneraciones
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+1320,83
+53299,08
+3258,04
+4130,18
+349,63
+699,26
+8260,35
+Rem c/ Aporte 81451,02
+81451,02 16697,46 Rem s/ Aporte 0.00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Fecha Antig.: 01/07/2009  Fec. Nac.: 16/05/1983 Obra Social: 500500 Cant. Hs 3,00
+Descuentos
+23686,92
+6221,61
+27516,34
+5550,21
+6315,23
+23616,57
+9290,69
+4087,90
+5620,87
+11241,73
+Rem c/ Aporte 102197,57
+102197,57 20950,50 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 3,00
+
+Descuentos
+27516,34
+27907,20
+5550,21
+50000,00
+23686,92
+21161,03
+6315,23
+23616,57
+95365,20
+
+Emision: 2024-11-28
+
+Página: 85
+Reducción PAV 0,00 Liq. Pesos: 64753,56
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 01/07/2010 Rol: 33 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 81247,07
+Reducción PAV 0,00 Liq. Pesos: 81247,07
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2010 Rol: 32 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 325245,60

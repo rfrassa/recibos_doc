@@ -1,0 +1,118 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 28609,56
+DV 133020 Asignación Familiar por Hijos 9234,00
+Dv 118100 Complemento No Rem 22500,00
+Dv 117730 Estado Docente 35611,02
+Dv 118360 Antiguedad 26990,36
+RT 660330 Fondo de Enfermedades Catastróficas
+RT 660300 Obra Social - APROSS
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+
+205833,05
+
+Id. Hr: 126426393 Apellido y Nombre: BOASSO, JORGE ARIEL
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 9665,22
+Dv 118420 Promoción de la Calidad Educativa 6686,71
+Dv 118360 Antiguedad 26990,36
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660300 Obra Social - APROSS
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+
+106317,37
+
+Id. Hr: 128840809 Apellido y Nombre: VIRONI, SERGIO DANIEL
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+Dv 110220 Adicional por Función Docente 55269,48
+Dv 118420 Promoción de la Calidad Educativa 13868,74
+Dv 1000003 Asignación Basica 64204,79
+Dv 120170 Aporte Material Didáctico Rem. 12950,50
+
+Fecha Antig.: 01/03/2010 Fec. Nac.: 04/06/1981
+
+33080,00
+8001,92
+2909,79
+
+23530,19
+
+16003,84
+4914,98
+
+88440,72
+
+Centro Pago: EE12402530
+
+Fecha Antig.: 01/03/2005  Fec. Nac.: 03/08/1978 Obra Social: 500500
+
+Descuentos
+
+2126,35
+5847,46
+11694,91
+2657,93
+
+22326,65
+
+Centro Pago: EE12402530
+
+Descuentos
+
+Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+145489,49
+60343,56
+
+Rem c/ Aporte
+Rem s/ Aporte
+
+Cargo: 13910
+Cant. Hs. : 3,00
+
+Rem c/ Aporte 106317,37
+Rem s/ Aporte 0,00
+
+Cargo: 13910
+Cant. Hs. : 7,00
+
+Emision: 2024-11-28
+
+Página: 24
+Reducción PAV 0,00 Liq. Pesos: 117392,33
+Salario Familiar: 9234,00  Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2005 Rol: 4 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 83990,72
+Reducción PAV 0,00 Liq. Pesos: 83990,72
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/03/2015 Rol: 9 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 215872,32

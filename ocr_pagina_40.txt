@@ -1,0 +1,154 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+DV 1000003 Asignación Basica
+DV 120444 Compensación Provincial Pérdida Incentivo Docente
+RT 660330 Fondo de Enfermedades Catastróficas
+RT 660300 Obra Social - APROSS
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+RT 660060 Aporte Personal Jubilatorio
+Id. Hr: 138282036 Apellido y Nombre: LISCHETTI, CARLOS ABEL
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+325087,56
+95365,26
+
+1096124,65
+
+Fecha Antig.: 11/11/2017  Fec. Nac.: 09/01/1995 Obra Social: 500500
+
+Remuneraciones
+1000003 Asignación Basica 123649,38
+118100 Complemento No Rem 50000,00
+120170 Aporte Material Didáctico Rem. 27751,07
+112310 Item profesionalidad Docente 60594,08
+112620 Gastos Inherentes a la Labor Docente 38905,43
+117730 Estado Docente 59351,70
+118420 Promoción de la Calidad Educativa 71791,36
+110220 Adicional por Función Docente 235725,43
+120444 Compensación Provincial Pérdida Incentivo Docente 47682,63
+118360 Antiguedad 48766,44
+660300 Obra Social - APROSS
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660330 Fondo de Enfermedades Catastróficas
+671000 Ajuste Dif. Aporte Mínimo APROSS
+660060 Aporte Personal Jubilatorio
+
+764217,52
+
+139420681 Apellido y Nombre: SARMIENTO, MAURO IVAN
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+1000003 Asignación Basica
+
+118210 Complemento Especial
+
+120170 Aporte Material Didáctico Rem.
+118100 Complemento No Rem
+
+110220 Adicional por Función Docente
+
+Fecha Antig.: 18/05/2017  Fec. Nac.: 03/05/1996 Obra Social: 500500
+
+Remuneraciones
+
+123649,38
+69661,62
+27751,07
+50000,00
+
+267714,24
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+8270,00
+52291,77
+38030,38
+104583,53
+Rem c/ Aporte 950759,39
+203175,68
+
+Rem s/ Aporte
+
+Centro Pago: EE12402530
+
+Descuentos
+
+36659,42
+13330,70
+8270,00
+7195,27
+73318,84
+
+Rem c/ Aporte
+
+138774,23 Rem s/ Aporte
+
+Centro Pago: EE12402530
+
+Descuentos
+
+145365,26
+
+Cargo: 13520
+
+Cant. Hs. : 0,00
+
+666534,89
+97682,63
+
+Cargo: 13797
+
+Cant. Hs. : 0,00
+
+Emision: 2024-11-28
+Página: 40
+Reducción PAV 0,00 Liq. Pesos: 892948,97
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 02/10/2018 Rol: 3 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 625443,29
+Reducción PAV 0,00 Liq. Pesos: 625443,29
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/06/2021 Rol: 6 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 836308,79

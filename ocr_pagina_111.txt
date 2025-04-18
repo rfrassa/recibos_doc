@@ -1,0 +1,60 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 89838,14
+89838,14 19764,39 Rem s/ Aporte 0,00
+Id. Hr: 235669297 Apellido y Nombre: TOBARES, MARIA AGUSTINA Centro Pago: EE0S5201580 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011685205 Fecha Antig.: 01/04/2015  Fec. Nac.: 28/07/1991 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 27516,34
+Dv 118360 Antiguedad 13495,18
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 16872,02
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 117730 Estado Docente 87049,16
+Dv 118420 Promoción de la Calidad Educativa 5200,78
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 69934,48
+Dv 118100 Complemento No Rem 50000,00
+RT 660300 Obra Social - APROSS 10207,57
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 5567,77
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 2106,57
+RT 660060 Aporte Personal Jubilatorio 20415,14
+RT 673750 Cuota Afiliación UEPC 7638,17
+Rem c/ Aporte 185592,22
+305526,70 45935,22 Rem s/ Aporte 119934,48
+
+Id. Hr: 235669297 Apellido y Nombre: TOBARES, MARIA AGUSTINA Centro Pago: EE05201580 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N" Cuenta: 011685205 Fecha Antig.: 01/04/2015  Fec. Nac.: 28/07/1991 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 112310 Item profesionalidad Docente 8167,10
+
+Dv 118420 Promoción de la Calidad Educativa 5200,78
+
+Dv 118360 Antiguedad 13495,18
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2695,14
+
+Emision: 2024-11-28
+Página: 111
+
+Reducción PAV 0,00 Liq. Pesos: 70073,75
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/04/2015 Rol: 1 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 259591,48
+Reducción PAV 0,00 Liq. Pesos: 259591,48
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/04/2015 Rol: 3 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 70073,75

@@ -1,0 +1,60 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 131036,21
+131036,21 26862,42 Rem s/ Aporte 0,00
+Id. Hr: 222687903 Apellido y Nombre: DEFAGO, MARIA V Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/03/1996 Fec. Nac.: 20/07/1972 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 27516,34
+Dv 118100 Complemento No Rem 50000,00
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112310 Item profesionalidad Docente 23782,72
+Dv 118420 Promoción de la Calidad Educativa 8915,62
+Dv 118360 Antiguedad 47233,13
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,20
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 117730 Estado Docente 118703,40
+RT 660300 Obra Social - APROSS 14388,55
+RT 660330 Fondo de Enfermedades Catastróficas 8270,00
+RT 660060 Aporte Personal Jubilatorio 28777,09
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 10464,40
+Rem c/ Aporte 261609,95
+406975,15 61900,04 Rem s/ Aporte 145365,20
+
+Id. Hr: 223419414 Apellido y Nombre: BRUCELLI, ANALIA VERONICA Centro Pago: EE12402530 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/11/2000  Fec. Nac.: 22/03/1974 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+
+Dv 1000003 Asignación Basica 36688,45
+
+Dv 118100 Complemento No Rem 50000,00
+
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+
+Dv 110220 Adicional por Función Docente 31582,56
+
+Dv 112310 Item profesionalidad Docente 26651,08
+
+Dv 118420 Promoción de la Calidad Educativa 10401,55
+
+Dv 118360 Antiguedad 49482,32
+
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+
+Emision: 2024-11-28
+Página: 53
+
+Reducción PAV 0,00 Liq. Pesos: 104173,79
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/08/1996 Rol: 4 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 345075,11
+Reducción PAV 0,00 Liq. Pesos: 345075,11
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/04/2007 Rol: 6 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 353618,97

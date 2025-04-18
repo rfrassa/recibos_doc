@@ -1,0 +1,73 @@
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+LIQUIDACION DE HABERES
+
+OP045 - DIPE EX NACIÓN
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Ministerio:
+Empresa:
+
+RT 660060 Aporte Personal Jubilatorio 11694,91
+RT 673750 Cuota Afiliación UEPC 2657,93
+Rem c/ Aporte 106317,37
+106317,37 22326,65 Rem s/ Aporte 0,00
+
+Id. Hr: 224520637 Apellido y Nombre: ACOSTA, CLAUDIA PATRICIA Centro Pago: EE03101150 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 900 N? Cuenta: 011151409 Fecha Antig.: 07/08/2005  Fec. Nac.: 01/01/1978 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 27516,34
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 9665,22
+Dv 118420 Promoción de la Calidad Educativa 6686,71
+Dv 118360 Antiguedad 26990,36
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+RT 660300 Obra Social - APROSS 5847,46
+RT 671000 Ajuste Dif. Aporte Mínimo APROSS 8702,60
+RT 660060 Aporte Personal Jubilatorio 11694,91
+RT 673750 Cuota Afiliación UEPC 2657,93
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2126,35
+Rem c/ Aporte 106317,37
+106317,37 31029,25 Rem s/ Aporte 0,00
+
+Id. Hr: 225052182 Apellido y Nombre: BARRIENTOS LANDI, ANDREA LORENA ITATI Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 0.00000000N* Cuenta: 0.00000000 Fecha Antig.: 01/05/2010  Fec. Nac.: 13/02/1976 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 57219,15
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 118100 Complemento No Rem 50000,00
+
+Dv 117730 Estado Docente 71222,04
+
+Dv 118420 Promoción de la Calidad Educativa 5943,74
+
+Dv 118360 Antiguedad 20242,77
+
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+
+Dv 112310 Item profesionalidad Docente 16038,36
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 5292,66
+
+Emision: 2024-11-28
+Página: 63
+Reducción PAV 0,00 Liq. Pesos: 83990,72
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 01/03/2010 Rol: 34 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 75288,12
+Reducción PAV 0,00 Liq. Pesos: 75288,12
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 12/05/2010 Rol: 5 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 249238,85

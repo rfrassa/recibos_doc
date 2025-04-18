@@ -1,0 +1,102 @@
+Fecha de Pago: 2024-11-25
+
+LIQUIDACION DE HABERES
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Id. Hr: 140026143 Apellido y Nombre: GUERRERO, MATIAS GABRIEL Centro Pago: EE11204020
+Sit. Revista: 03 Suc. Bco.: 408 N" Cuenta: 001017906 Fecha Antig.: 15/02/2024  Fec. Nac.: 15/02/1995 Obra Social: 500500 Cant. Hs. :
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 6114,74
+Dv 130300 Complemento Inicial 2080,71
+Dv 113260 Total Retroactivos con Aportes 45463,09
+Dv 120170 Aporte Material Didáctico Rem. 1233,38
+Dv 112620 Gastos Inherentes a la Labor Docente 1382,58
+Dv 138230 S.A.C. Proporcional 2do. Semestre 5422,31
+Dv 118420 Promoción de la Calidad Educativa 825,52
+Dv 110220 Adicional por Función Docente 5263,76
+Dv 112310 Item profesionalidad Docente 1690,07
+RT 660340 Obra Social SAC- APROSS 298,23
+RT 660300 Obra Social - APROSS 3522,96
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2779,05
+RT 660080 Aporte Personal Jubilatorio s/SAC 596,45
+RT 660060 Aporte Personal Jubilatorio 7045,92
+RT 673750 Cuota Afiliación UEPC 1736,90
+Rem c/ Aporte
+69476,16 15979,51 Rem s/ Aporte
+Id. Hr: 141484674 Apellido y Nombre: TOBARES, MATIAS LUIS Centro Pago: EE12402530
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Fecha Antig.: 15/02/2023  Fec. Nac.: 11/02/1999 Obra Social: 500500
+
+Remuneraciones
+1000003 Asignación Basica 123649,38
+118210 Complemento Especial 69661,62
+120170 Aporte Material Didáctico Rem. 27751,07
+118100 Complemento No Rem 50000,00
+110220 Adicional por Función Docente 267714,24
+112310 Item profesionalidad Docente 74303,90
+118420 Promoción de la Calidad Educativa 69030,15
+118360 Antiguedad 63838,37
+120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+112620 Gastos Inherentes a la Labor Docente 62042,49
+117730 Estado Docente 59351,70
+660300 Obra Social - APROSS
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660330 Fondo de Enfermedades Catastróficas
+
+660060
+
+Aporte Personal Jubilatorio
+
+Cant. Hs. :
+
+Descuentos
+
+44953,86
+24520,29
+
+8270,00
+89907,72
+
+Cargo: 13910
+
+0,67
+
+69476,16
+
+0,00
+
+Cargo: 13797
+
+0,00
+
+Emision: 2024-11-28
+Página: 43
+
+Fecha Alta: 21/10/2024 Rol: 7 Dias Trab: 4
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 53496,65
+Reducción PAV 0,00 Liq. Pesos: 53496,65
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 02/03/2023 Rol: 2 Dias Trab: 30
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+Liquido 795056,31

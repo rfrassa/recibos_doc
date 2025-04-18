@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Recibo de {{ recibo.empleado.nombre }}</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 1em; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+        th { background-color: #eee; }
+    </style>
+</head>
+<body>
+    <h2>Recibo de Sueldo</h2>
+    <p><strong>Empleado:</strong> {{ recibo.empleado.nombre }}</p>
+    <p><strong>Mes:</strong> {{ recibo.mes|date:"F Y" }}</p>
+    <p><strong>Total líquido:</strong> $ {{ recibo.total_liquido }}</p>
+    <p><strong>Son pesos:</strong> {{ total_en_letras }}</p>
+
+    <h3>Conceptos</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Descripción</th>
+                <th>Tipo</th>
+                <th>Monto</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for c in conceptos %}
+            <tr>
+                <td>{{ c.codigo }}</td>
+                <td>{{ c.descripcion }}</td>
+                <td>{{ c.get_tipo_display }}</td>
+                <td>$ {{ c.monto }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

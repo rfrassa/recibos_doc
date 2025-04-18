@@ -1,0 +1,122 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa:
+
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660060 Aporte Personal Jubilatorio
+
+426906,67
+
+230441430 Apellido y Nombre: BONFANTI, NATALIA CRISTINA
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Remuneraciones
+110220 Adicional por Función Docente 47373,84
+112620 Gastos Inherentes a la Labor Docente 12443,22
+1000003 Asignación Basica 55032,68
+120170 Aporte Material Didáctico Rem. 11100,43
+118420 Promoción de la Calidad Educativa 11887,49
+118360 Antiguedad 40485,54
+112310 Item profesionalidad Docente 17832,32
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+660060 Aporte Personal Jubilatorio
+
+196155,52
+
+231735797 Apellido y Nombre: RODRIGUEZ, DANIELA ELIZABETH
+
+Fecha Antig.: 06/10/2012  Fec. Nac.: 13/12/1985 Obra Social: 500500
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+9018,44
+33067,60
+Rem c/ Aporte 300614,51
+17549984 ms Aporte 126292,16
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Cant. Hs. : 6,00
+Descuentos
+5884,67
+10788,55
+21577,11
+Rem c/ Aporte 196155,52
+3825033 Rem s/ Aporte 0,00
+
+Centro Pago: EE03106110 Cargo: 13910
+
+Suc. Bco.: 331 N? Cuenta: 012030002 Fecha Antig.: 03/10/2016  Fec. Nac.: 01/03/1986 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+110220 Adicional por Función Docente 39478,20
+112620 Gastos Inherentes a la Labor Docente 10369,35
+1000003 Asignación Basica 45860,57
+120170 Aporte Material Didáctico Rem. 9250,36
+112310 Item profesionalidad Docente 13611,84
+118420 Promoción de la Calidad Educativa 8667,96
+118360 Antiguedad 22491,97
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724 5989,21
+660300 Obra Social - APROSS 8235,16
+660060 Aporte Personal Jubilatorio 16470,33
+673750 Cuota Afiliación UEPC 3743,26
+
+Emision: 2024-11-28
+
+Página: 91
+Reducción PAV 0,00 Liq. Pesos: 251406,83
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 03/07/2017 Rol: 40 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 157905,19
+Reducción PAV 0,00 Liq. Pesos: 157905,19
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/04/2017 Rol: 4 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 115292,29

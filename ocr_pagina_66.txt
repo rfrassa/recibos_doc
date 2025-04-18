@@ -1,0 +1,89 @@
+LIQUIDACION DE HABERES
+
+Ministerio: OP045 - DIPE EX NACIÓN
+
+Empresa: INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+RT 660330 Fondo de Enfermedades Catastróficas
+RT 660060 Aporte Personal Jubilatorio
+RT 673750 Cuota Afiliación UEPC
+
+1842365,52
+
+Id. Hr: 225490252 Apellido y Nombre: ALANIZ, ROXANA
+
+Fecha de Pago: 2024-11-25
+Anexo: EE
+
+24810,00
+193860,21
+46059,14
+Rem c/ Aporte 1762365,52
+452297,50 Rem s/ Aporte 80000,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N” Cuenta: 001604601 Fecha Antig.: 25/04/1999  Fec. Nac.: 04/10/1976 Obra Social: 500500 Cant. Hs. : 5,00
+Remuneraciones Descuentos
+Dv 1000003 Asignación Basica 45860,57
+Dv 110220 Adicional por Función Docente 39478,20
+Dv 120170 Aporte Material Didáctico Rem. 9250,36
+Dv 118100 Complemento No Rem 50000,00
+Dv 112310 Item profesionalidad Docente 29684,53
+Dv 118420 Promoción de la Calidad Educativa 13621,08
+Dv 118360 Antiguedad 67475,90
+Dv 120444 Compensación Provincial Pérdida Incentivo Docente 95365,26
+Dv 112620 Gastos Inherentes a la Labor Docente 10369,35
+Dv 117730 Estado Docente 110789,84
+RT 660300 Obra Social - APROSS 17959,14
+RT 660060 Aporte Personal Jubilatorio 35918,28
+RT 673750 Cuota Afiliación UEPC 11797,38
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 13061,19
+Rem c/ Aporte 326529,83
+471895,09 78735,99
+Rem s/ Aporte 145365,26
+
+Id. Hr: 226426245 Apellido y Nombre: ARGUELLO, CLAUDIA ADRIANA
+
+Centro Pago: EE03108390 Cargo: 13910
+
+Sit. Revista: 01 Suc. Bco.: 408 N? Cuenta: 082953405 Fecha Antig.: 01/07/2003  Fec. Nac.: 04/04/1978 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+
+Dv 110220 Adicional por Función Docente 23686,92
+
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+
+Dv 1000003 Asignación Basica 27516,34
+
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+
+Dv 118420 Promoción de la Calidad Educativa 7429,68
+
+Dv 118360 Antiguedad 33737,95
+
+Dv 112310 Item profesionalidad Docente 10414,27
+
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 4582,28
+
+RT 660300 Obra Social - APROSS 6300,63
+
+Emision: 2024-11-28
+
+Página: 66
+Reducción PAV 0,00 Liq. Pesos: 1390068,02
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/03/2006 Rol: 20 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 393159,10
+Reducción PAV 0,00 Liq. Pesos: 393159,10
+Salario Familiar: 0,00  Liq. Letras: 0,00
+
+Fecha Alta: 02/03/2020 Rol: 34 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 91072,80

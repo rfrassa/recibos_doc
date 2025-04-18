@@ -1,0 +1,161 @@
+LIQUIDACION DE HABERES
+
+Ministerio:
+Empresa:
+
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+
+Td. Hr:
+
+Sit. Revista: 01
+
+DV
+DV
+DV
+DV
+DV
+DV
+DV
+RT
+RT
+RT
+RT
+RT
+
+OP045 - DIPE EX NACIÓN
+
+660330 Fondo de Enfermedades Catastróficas
+671000 Ajuste Dif. Aporte Mínimo APROSS
+660060 Aporte Personal Jubilatorio
+
+224290817 Apellido y Nombre:  SCARAFFIA, VERÓNICA ALEJANDRA
+
+110220 Adicional por Función Docente
+112620 Gastos Inherentes a la Labor Docente
+1000003 Asignación Basica
+
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+660300 Obra Social - APROSS
+
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+224290817 Apellido y Nombre:  SCARAFFIA, VERÓNICA ALEJANDRA
+
+1000003 Asignación Basica
+
+110220 Adicional por Función Docente
+120170 Aporte Material Didáctico Rem.
+112310 Item profesionalidad Docente
+
+118420 Promoción de la Calidad Educativa
+118360 Antiguedad
+
+112620 Gastos Inherentes a la Labor Docente
+660300 Obra Social - APROSS
+
+660330 Fondo de Enfermedades Catastróficas
+660060 Aporte Personal Jubilatorio
+
+673750 Cuota Afiliación UEPC
+
+660040 Aporte Obligatorio inciso e) art. 9 L 10.724
+
+INST. BACH.AGROTECNICO SAN JOSE _ ...
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Suc. Bco.: 0.00000000N* Cuenta: 0.00000000
+
+Fecha de Pago: 2024-11-25
+
+Anexo: EE
+8270,00
+384,11
+86494,46
+Rem c/ Aporte 786313,31
+883995,94 16198520 Roms/ Aporte 97682,63
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Fecha Antig.: 27/02/2012  Fec. Nac.: 06/12/1974 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+23686,92
+6221,61
+27516,34
+5550,21
+8916,16
+5943,74
+20242,77
+2942,33
+5394,28
+10788,55
+2451,94
+Rem c/ Aporte 98077,75
+98077,75 21577,10 Rem s/ Aporte 0,00
+
+Centro Pago: EE12402530 Cargo: 13910
+
+Fecha Antig.: 27/02/2012  Fec. Nac.: 06/12/1974 Obra Social: 500500 Cant. Hs. : 18,00
+Remuneraciones Descuentos
+
+165098,04
+142121,52
+33301,28
+53496,96
+35662,46
+121456,62
+37329,66
+
+32365,66
+
+8270,00
+
+64731,32
+
+14711,66
+
+17654,00
+
+Emision: 2024-11-28
+
+Página: 61
+Reducción PAV 0,00 Liq. Pesos: 722010,74
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 27/02/2012 Rol: 5 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 76500,65
+
+Reducción PAV 0,00 Liq. Pesos: 76500,65
+Salario Familiar: 0,00 Liq. Letras: 0,00
+Fecha Alta: 12/06/2017 Rol: 18 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 450733,90

@@ -1,0 +1,54 @@
+LIQUIDACION DE HABERES Fecha de Pago: 2024-11-25
+Ministerio: OP045- DIPE EX NACIÓN Anexo: EE
+Empresa: — INST. BACH.AGROTECNICO SAN JOSE _....
+Rem c/ Aporte 89838,14
+89838,14 16620,06 Rem s/ Aporte 0,00
+Id. Hr: 235669104 Apellido y Nombre: GONGORA, GRISEL EVANGELINA Centro Pago: EE03106110 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N* Cuenta: 011731603 Fecha Antig.: 16/11/2015  Fec. Nac.: 09/10/1990 Obra Social: 500500 Cant. Hs. : 4,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 31582,56
+Dv 112620 Gastos Inherentes a la Labor Docente 8295,48
+Dv 1000003 Asignación Basica 36688,45
+Dv 120170 Aporte Material Didáctico Rem. 7400,29
+Dv 118420 Promoción de la Calidad Educativa 6934,37
+Dv 118360 Antiguedad 17993,57
+Dv 112310 Item profesionalidad Docente 10889,47
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2395,68
+RT 660300 Obra Social - APROSS 6588,13
+RT 660060 Aporte Personal Jubilatorio 13176,26
+Rem c/ Aporte 119784,19
+119784,19 22160,07 Rem s/ Aporte 0,00
+Id. Hr: 235669297 Apellido y Nombre: TOBARES, MARIA AGUSTINA Centro Pago: EE05201580 Cargo: 13910
+Sit. Revista: 01 Suc. Bco.: 408 N* Cuenta: 011685205 Fecha Antig.: 01/04/2015  Fec. Nac.: 28/07/1991 Obra Social: 500500 Cant. Hs. : 3,00
+Remuneraciones Descuentos
+Dv 110220 Adicional por Función Docente 23686,92
+Dv 112620 Gastos Inherentes a la Labor Docente 6221,61
+Dv 1000003 Asignación Basica 27516,34
+Dv 120170 Aporte Material Didáctico Rem. 5550,21
+Dv 112310 Item profesionalidad Docente 8167,10
+Dv 118420 Promoción de la Calidad Educativa 5200,78
+Dv 118360 Antiguedad 13495,18
+RT 660040 Aporte Obligatorio inciso e) art. 9 L 10.724 2695,14
+RT 660300 Obra Social - APROSS 4941,10
+RT 660060 Aporte Personal Jubilatorio 9882,20
+RT 673750 Cuota Afiliación UEPC 2245,95
+
+Emision: 2024-11-28
+
+Página: 110
+Reducción PAV 0,00 Liq. Pesos: 73218,08
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/06/2022 Rol: 31 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 97624,12
+Reducción PAV 0,00 Liq. Pesos: 97624,12
+Salario Familiar: 0,00 Liq. Letras: 0,00
+
+Fecha Alta: 01/04/2015 Rol: 2 Dias Trab: 30
+
+Horas al 50%: 0,00 Horas al 100%: 0,00 Id Adicional: 3,00
+
+Liquido 70073,75
